@@ -1,6 +1,7 @@
 const dbService = require('../../services/db.service')
 const logger = require('../../services/logger.service')
 const utilService = require('../../services/util.service')
+
 const ObjectId = require('mongodb').ObjectId
 
 async function query(filterBy = { txt: '' }) {
@@ -59,6 +60,7 @@ async function update(board) {
 			{ _id: new ObjectId(board._id) },
 			{ $set: boardToSave }
 		)
+
 		return board
 	} catch (err) {
 		logger.error(`cannot update board ${board.id}`, err)

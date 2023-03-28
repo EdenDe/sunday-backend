@@ -13,12 +13,21 @@ function setupSocketAPI(http) {
         socket.on('disconnect', socket => {
             logger.info(`Socket disconnected [id: ${socket.id}]`)
         })
-        socket.on('board-is-update', updates => {
-            logger.info(`New chat msg from socket [id: ${socket.id}], emitting to topic ${socket.myTopic}`)
+        socket.on('board-set-topic', topic => {
+            if (socket.myTopic === topic) return
+            if (socket.myTopic) {
+                socket.leave(socket.myTopic)
+                logger.info(`Socket is leaving topic ${socket.myTopic} [id: ${socket.id}]`)
+            }
+            socket.join(topic)
+            socket.myTopic = topic
+        })
+        socket.on('board-get-update', board => {
+            logger.info(`New board update from socket [id: ${socket.id}], with the updates ${updates}`)
             // emits to all sockets:
-            gIo.emit('board-set-update', updates)
+            // gIo.emit('board-set-update', updates)
             // emits only to sockets in the same room
-            // gIo.to(socket.myTopic).emit('chat-add-msg', msg)
+            gIo.to(socket.myTopic).emit('chat-add-msg', board)
         })
         socket.on('user-watch', userId => {
             logger.info(`user-watch from socket [id: ${socket.id}], on user ${userId}`)
