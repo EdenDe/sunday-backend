@@ -271,3 +271,146 @@
 28.3.2023, 16:36:41 - DEBUG - GOT: | 1532b0b747a98f18388b627c50c1dae8061f0167a5417ab7f8ccb13df9b2e907e8216587df873d32b4e469accd1958a5cd5ec1f2b033c26f814809c401c627a0f9d84f3ec55d5574e1dc40e64298dc571e371a2257206ec0bb2b0ee117659db3cc6c302a8596444d698db690b71956f6ed7a1833e238d948b25205ab432c536c076c9e289b69bde05fee85f8558e2945a4e67eb49b 
 28.3.2023, 16:36:41 - DEBUG - GOT: | 1532b0b747a98f18388b627c50c1dae8061f0167a5417ab7f8ccb13df9b2e907e8216587df873d32b4e469accd1958a5cd5ec1f2b033c26f814809c401c627a0f9d84f3ec55d5574e1dc40e64298dc571e371a2257206ec0bb2b0ee117659db3cc6c302a8596444d698db690b71956f6ed7a1833e238d948b25205ab432c536c076c9e289b69bde05fee85f8558e2945a4e67eb49b 
 28.3.2023, 16:36:43 - DEBUG - GOT: | 1532b0b747a98f18388b627c50c1dae8061f0167a5417ab7f8ccb13df9b2e907e8216587df873d32b4e469accd1958a5cd5ec1f2b033c26f814809c401c627a0f9d84f3ec55d5574e1dc40e64298dc571e371a2257206ec0bb2b0ee117659db3cc6c302a8596444d698db690b71956f6ed7a1833e238d948b25205ab432c536c076c9e289b69bde05fee85f8558e2945a4e67eb49b 
+28.3.2023, 17:01:28 - INFO - Server is running on port: 3030 
+28.3.2023, 17:08:24 - DEBUG - GOT: |  
+28.3.2023, 17:08:24 - DEBUG - Getting Boards 
+28.3.2023, 17:08:24 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 17:08:24 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 17:08:24 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 17:08:24 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 17:08:24 - DEBUG - GOT: |  
+28.3.2023, 17:08:24 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 17:08:24 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 17:08:24 - ERROR - while finding board b101 | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 17:08:24 - ERROR - Failed to get board | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 17:11:40 - INFO - Server is running on port: 3030 
+28.3.2023, 17:11:48 - DEBUG - GOT: |  
+28.3.2023, 17:11:48 - DEBUG - Getting Boards 
+28.3.2023, 17:11:48 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 17:11:48 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 17:11:48 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 17:11:48 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 17:11:48 - DEBUG - GOT: |  
+28.3.2023, 17:11:48 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 17:11:48 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 17:11:48 - ERROR - while finding board b101 | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 17:11:48 - ERROR - Failed to get board | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 17:13:07 - DEBUG - GOT: |  
+28.3.2023, 17:13:07 - DEBUG - Getting Boards 
+28.3.2023, 17:13:07 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 17:13:07 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 17:13:07 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 17:13:07 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 17:13:07 - DEBUG - GOT: |  
+28.3.2023, 17:13:07 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 17:13:07 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 17:13:07 - ERROR - while finding board b101 | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 17:13:07 - ERROR - Failed to get board | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 17:17:00 - DEBUG - GOT: |  
+28.3.2023, 17:17:00 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 17:17:00 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 17:17:00 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 17:17:00 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 17:17:00 - DEBUG - Getting Boards 
+28.3.2023, 17:17:00 - DEBUG - GOT: |  
+28.3.2023, 17:17:00 - ERROR - Failed to get board | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 17:17:00 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 17:17:00 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 17:17:00 - ERROR - while finding board b101 | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 17:17:22 - DEBUG - GOT: |  
+28.3.2023, 17:17:22 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 17:17:22 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 17:17:22 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 17:17:22 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 17:17:22 - DEBUG - Getting Boards 
+28.3.2023, 17:17:22 - DEBUG - GOT: |  
+28.3.2023, 17:17:22 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 17:17:22 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 17:17:22 - ERROR - while finding board b101 | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 17:17:22 - ERROR - Failed to get board | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 17:17:57 - INFO - Server is running on port: 3030 
+28.3.2023, 17:18:07 - DEBUG - GOT: |  
+28.3.2023, 17:18:07 - DEBUG - Getting Boards 
+28.3.2023, 17:18:08 - DEBUG - GOT: |  
+28.3.2023, 17:18:08 - ERROR - while finding board b101 | BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+28.3.2023, 17:18:08 - ERROR - Failed to get board | BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+28.3.2023, 17:18:44 - INFO - Server is running on port: 3030 
+28.3.2023, 17:19:01 - DEBUG - GOT: |  
+28.3.2023, 17:19:01 - DEBUG - GOT: |  
+28.3.2023, 17:19:01 - DEBUG - Getting Boards 
+28.3.2023, 17:19:09 - ERROR - while finding board b101 | BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+28.3.2023, 17:19:09 - ERROR - Failed to get board | BSONError: Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer 
+28.3.2023, 17:20:15 - DEBUG - GOT: |  
+28.3.2023, 17:20:15 - DEBUG - auth.service - signup with username: liorD, fullname: Lior Doron 
+28.3.2023, 17:20:15 - DEBUG - auth.route - new account created: {"username":"liorD","password":"$2b$10$FyqJTshkuS0GndfczCJrAeYqlfkj.l65FQS6WcjaZWtIkXIIFau.i","fullname":"Lior Doron","color":"black","_id":"6422f79f87b75159e5319fb1"} 
+28.3.2023, 17:20:15 - DEBUG - auth.service - login with username: liorD 
+28.3.2023, 17:20:15 - INFO - User signup: | {"_id":"6422f79f87b75159e5319fb1","username":"liorD","fullname":"Lior Doron","imgUrl":null,"color":"black"} 
+28.3.2023, 17:20:16 - DEBUG - GOT: | 6f27e4726f8eb6fedcf966df56e3280324c9ab966ec3443e559cc84082a2b086f1fc7ea330a523b32dc81d30608f6333450e4ceb9fade6aa0eacd6488a2ef4da28ae78b4397ecec5b88a2ae6effc7688c6164ce4bff489fe76d7573182626b05f6f483947985a73872df163b46b36d91e8ca227810cc4d57c6e0dd63049a4469df6af930aea0b005a5e9266175c7adb73398f0d6a94351813fd0 
+28.3.2023, 17:20:16 - DEBUG - auth.service - login with username: liorD (userId: 6422f79f87b75159e5319fb1)
+28.3.2023, 17:20:17 - INFO - User login:  | {"_id":"6422f79f87b75159e5319fb1","username":"liorD","fullname":"Lior Doron","imgUrl":null,"color":"black"} (userId: 6422f79f87b75159e5319fb1)
+28.3.2023, 17:20:17 - DEBUG - GOT: | 9907e0131ca224ff9b6f2c35cb397b47792ee87735ca6e7b14f72a32fe400637cced6e1833963fa87503167542954bbb37262c056c746d2e5d1fad7ceaf16bde7cf5258ac9f8620fb67cc099a4cc38d5e41cb82a2ab51908e8847da0d9ff5df1c9e6898379fa116ff913044c2174d5d2c0250595b255b2d2594210cb48418fe07c38bcf993eeeeadee508a1b12607bee211a1d35334b7bf3f5d8 
+28.3.2023, 17:24:59 - DEBUG - GOT: | 9907e0131ca224ff9b6f2c35cb397b47792ee87735ca6e7b14f72a32fe400637cced6e1833963fa87503167542954bbb37262c056c746d2e5d1fad7ceaf16bde7cf5258ac9f8620fb67cc099a4cc38d5e41cb82a2ab51908e8847da0d9ff5df1c9e6898379fa116ff913044c2174d5d2c0250595b255b2d2594210cb48418fe07c38bcf993eeeeadee508a1b12607bee211a1d35334b7bf3f5d8 
+28.3.2023, 17:24:59 - DEBUG - Getting Boards (userId: 6422f79f87b75159e5319fb1)
+28.3.2023, 17:24:59 - DEBUG - GOT: | 9907e0131ca224ff9b6f2c35cb397b47792ee87735ca6e7b14f72a32fe400637cced6e1833963fa87503167542954bbb37262c056c746d2e5d1fad7ceaf16bde7cf5258ac9f8620fb67cc099a4cc38d5e41cb82a2ab51908e8847da0d9ff5df1c9e6898379fa116ff913044c2174d5d2c0250595b255b2d2594210cb48418fe07c38bcf993eeeeadee508a1b12607bee211a1d35334b7bf3f5d8 
+28.3.2023, 17:25:26 - DEBUG - GOT: | 9907e0131ca224ff9b6f2c35cb397b47792ee87735ca6e7b14f72a32fe400637cced6e1833963fa87503167542954bbb37262c056c746d2e5d1fad7ceaf16bde7cf5258ac9f8620fb67cc099a4cc38d5e41cb82a2ab51908e8847da0d9ff5df1c9e6898379fa116ff913044c2174d5d2c0250595b255b2d2594210cb48418fe07c38bcf993eeeeadee508a1b12607bee211a1d35334b7bf3f5d8 
+28.3.2023, 17:25:27 - DEBUG - Getting Boards (userId: 6422f79f87b75159e5319fb1)
+28.3.2023, 17:25:27 - DEBUG - GOT: | 9907e0131ca224ff9b6f2c35cb397b47792ee87735ca6e7b14f72a32fe400637cced6e1833963fa87503167542954bbb37262c056c746d2e5d1fad7ceaf16bde7cf5258ac9f8620fb67cc099a4cc38d5e41cb82a2ab51908e8847da0d9ff5df1c9e6898379fa116ff913044c2174d5d2c0250595b255b2d2594210cb48418fe07c38bcf993eeeeadee508a1b12607bee211a1d35334b7bf3f5d8 
+28.3.2023, 17:31:07 - DEBUG - GOT: | 9907e0131ca224ff9b6f2c35cb397b47792ee87735ca6e7b14f72a32fe400637cced6e1833963fa87503167542954bbb37262c056c746d2e5d1fad7ceaf16bde7cf5258ac9f8620fb67cc099a4cc38d5e41cb82a2ab51908e8847da0d9ff5df1c9e6898379fa116ff913044c2174d5d2c0250595b255b2d2594210cb48418fe07c38bcf993eeeeadee508a1b12607bee211a1d35334b7bf3f5d8 
+28.3.2023, 17:31:08 - DEBUG - Getting Boards (userId: 6422f79f87b75159e5319fb1)
+28.3.2023, 17:31:08 - DEBUG - GOT: | 9907e0131ca224ff9b6f2c35cb397b47792ee87735ca6e7b14f72a32fe400637cced6e1833963fa87503167542954bbb37262c056c746d2e5d1fad7ceaf16bde7cf5258ac9f8620fb67cc099a4cc38d5e41cb82a2ab51908e8847da0d9ff5df1c9e6898379fa116ff913044c2174d5d2c0250595b255b2d2594210cb48418fe07c38bcf993eeeeadee508a1b12607bee211a1d35334b7bf3f5d8 
+28.3.2023, 17:37:55 - DEBUG - GOT: | 9907e0131ca224ff9b6f2c35cb397b47792ee87735ca6e7b14f72a32fe400637cced6e1833963fa87503167542954bbb37262c056c746d2e5d1fad7ceaf16bde7cf5258ac9f8620fb67cc099a4cc38d5e41cb82a2ab51908e8847da0d9ff5df1c9e6898379fa116ff913044c2174d5d2c0250595b255b2d2594210cb48418fe07c38bcf993eeeeadee508a1b12607bee211a1d35334b7bf3f5d8 
+28.3.2023, 17:37:56 - DEBUG - Getting Boards (userId: 6422f79f87b75159e5319fb1)
+28.3.2023, 17:37:56 - DEBUG - GOT: | 9907e0131ca224ff9b6f2c35cb397b47792ee87735ca6e7b14f72a32fe400637cced6e1833963fa87503167542954bbb37262c056c746d2e5d1fad7ceaf16bde7cf5258ac9f8620fb67cc099a4cc38d5e41cb82a2ab51908e8847da0d9ff5df1c9e6898379fa116ff913044c2174d5d2c0250595b255b2d2594210cb48418fe07c38bcf993eeeeadee508a1b12607bee211a1d35334b7bf3f5d8 
+28.3.2023, 17:38:04 - DEBUG - GOT: | 9907e0131ca224ff9b6f2c35cb397b47792ee87735ca6e7b14f72a32fe400637cced6e1833963fa87503167542954bbb37262c056c746d2e5d1fad7ceaf16bde7cf5258ac9f8620fb67cc099a4cc38d5e41cb82a2ab51908e8847da0d9ff5df1c9e6898379fa116ff913044c2174d5d2c0250595b255b2d2594210cb48418fe07c38bcf993eeeeadee508a1b12607bee211a1d35334b7bf3f5d8 
+28.3.2023, 17:38:04 - DEBUG - Getting Boards (userId: 6422f79f87b75159e5319fb1)
+28.3.2023, 17:38:04 - DEBUG - GOT: | 9907e0131ca224ff9b6f2c35cb397b47792ee87735ca6e7b14f72a32fe400637cced6e1833963fa87503167542954bbb37262c056c746d2e5d1fad7ceaf16bde7cf5258ac9f8620fb67cc099a4cc38d5e41cb82a2ab51908e8847da0d9ff5df1c9e6898379fa116ff913044c2174d5d2c0250595b255b2d2594210cb48418fe07c38bcf993eeeeadee508a1b12607bee211a1d35334b7bf3f5d8 
+28.3.2023, 17:38:10 - DEBUG - GOT: | 9907e0131ca224ff9b6f2c35cb397b47792ee87735ca6e7b14f72a32fe400637cced6e1833963fa87503167542954bbb37262c056c746d2e5d1fad7ceaf16bde7cf5258ac9f8620fb67cc099a4cc38d5e41cb82a2ab51908e8847da0d9ff5df1c9e6898379fa116ff913044c2174d5d2c0250595b255b2d2594210cb48418fe07c38bcf993eeeeadee508a1b12607bee211a1d35334b7bf3f5d8 
+28.3.2023, 17:38:11 - DEBUG - Getting Boards (userId: 6422f79f87b75159e5319fb1)
+28.3.2023, 17:38:11 - DEBUG - GOT: | 9907e0131ca224ff9b6f2c35cb397b47792ee87735ca6e7b14f72a32fe400637cced6e1833963fa87503167542954bbb37262c056c746d2e5d1fad7ceaf16bde7cf5258ac9f8620fb67cc099a4cc38d5e41cb82a2ab51908e8847da0d9ff5df1c9e6898379fa116ff913044c2174d5d2c0250595b255b2d2594210cb48418fe07c38bcf993eeeeadee508a1b12607bee211a1d35334b7bf3f5d8 
+28.3.2023, 17:46:19 - INFO - Server is running on port: 3030 
+28.3.2023, 17:49:45 - INFO - Server is running on port: 3030 
+28.3.2023, 18:00:04 - INFO - Server is running on port: 3030 
+28.3.2023, 18:03:16 - DEBUG - GOT: | 9907e0131ca224ff9b6f2c35cb397b47792ee87735ca6e7b14f72a32fe400637cced6e1833963fa87503167542954bbb37262c056c746d2e5d1fad7ceaf16bde7cf5258ac9f8620fb67cc099a4cc38d5e41cb82a2ab51908e8847da0d9ff5df1c9e6898379fa116ff913044c2174d5d2c0250595b255b2d2594210cb48418fe07c38bcf993eeeeadee508a1b12607bee211a1d35334b7bf3f5d8 
+28.3.2023, 18:03:17 - DEBUG - Getting Boards (userId: 6422f79f87b75159e5319fb1)
+28.3.2023, 18:03:17 - INFO - New connected socket [id: jQjU3pg8UVp3UoGEAAAB] 
+28.3.2023, 18:03:17 - DEBUG - GOT: | 9907e0131ca224ff9b6f2c35cb397b47792ee87735ca6e7b14f72a32fe400637cced6e1833963fa87503167542954bbb37262c056c746d2e5d1fad7ceaf16bde7cf5258ac9f8620fb67cc099a4cc38d5e41cb82a2ab51908e8847da0d9ff5df1c9e6898379fa116ff913044c2174d5d2c0250595b255b2d2594210cb48418fe07c38bcf993eeeeadee508a1b12607bee211a1d35334b7bf3f5d8 
+28.3.2023, 18:03:18 - INFO - Setting socket.userId = 6422f79f87b75159e5319fb1 for socket [id: jQjU3pg8UVp3UoGEAAAB] 
+28.3.2023, 18:05:08 - INFO - Socket disconnected [id: undefined] 
+28.3.2023, 18:05:10 - DEBUG - GOT: | 9907e0131ca224ff9b6f2c35cb397b47792ee87735ca6e7b14f72a32fe400637cced6e1833963fa87503167542954bbb37262c056c746d2e5d1fad7ceaf16bde7cf5258ac9f8620fb67cc099a4cc38d5e41cb82a2ab51908e8847da0d9ff5df1c9e6898379fa116ff913044c2174d5d2c0250595b255b2d2594210cb48418fe07c38bcf993eeeeadee508a1b12607bee211a1d35334b7bf3f5d8 
+28.3.2023, 18:05:10 - DEBUG - Getting Boards (userId: 6422f79f87b75159e5319fb1)
+28.3.2023, 18:05:10 - DEBUG - GOT: | 9907e0131ca224ff9b6f2c35cb397b47792ee87735ca6e7b14f72a32fe400637cced6e1833963fa87503167542954bbb37262c056c746d2e5d1fad7ceaf16bde7cf5258ac9f8620fb67cc099a4cc38d5e41cb82a2ab51908e8847da0d9ff5df1c9e6898379fa116ff913044c2174d5d2c0250595b255b2d2594210cb48418fe07c38bcf993eeeeadee508a1b12607bee211a1d35334b7bf3f5d8 
+28.3.2023, 18:05:16 - DEBUG - GOT: | 9907e0131ca224ff9b6f2c35cb397b47792ee87735ca6e7b14f72a32fe400637cced6e1833963fa87503167542954bbb37262c056c746d2e5d1fad7ceaf16bde7cf5258ac9f8620fb67cc099a4cc38d5e41cb82a2ab51908e8847da0d9ff5df1c9e6898379fa116ff913044c2174d5d2c0250595b255b2d2594210cb48418fe07c38bcf993eeeeadee508a1b12607bee211a1d35334b7bf3f5d8 
+28.3.2023, 18:05:17 - DEBUG - Getting Boards (userId: 6422f79f87b75159e5319fb1)
+28.3.2023, 18:05:17 - DEBUG - GOT: | 9907e0131ca224ff9b6f2c35cb397b47792ee87735ca6e7b14f72a32fe400637cced6e1833963fa87503167542954bbb37262c056c746d2e5d1fad7ceaf16bde7cf5258ac9f8620fb67cc099a4cc38d5e41cb82a2ab51908e8847da0d9ff5df1c9e6898379fa116ff913044c2174d5d2c0250595b255b2d2594210cb48418fe07c38bcf993eeeeadee508a1b12607bee211a1d35334b7bf3f5d8 
+28.3.2023, 18:08:46 - DEBUG - GOT: | 9907e0131ca224ff9b6f2c35cb397b47792ee87735ca6e7b14f72a32fe400637cced6e1833963fa87503167542954bbb37262c056c746d2e5d1fad7ceaf16bde7cf5258ac9f8620fb67cc099a4cc38d5e41cb82a2ab51908e8847da0d9ff5df1c9e6898379fa116ff913044c2174d5d2c0250595b255b2d2594210cb48418fe07c38bcf993eeeeadee508a1b12607bee211a1d35334b7bf3f5d8 
+28.3.2023, 18:08:46 - DEBUG - Getting Boards (userId: 6422f79f87b75159e5319fb1)
+28.3.2023, 18:08:46 - DEBUG - GOT: | 9907e0131ca224ff9b6f2c35cb397b47792ee87735ca6e7b14f72a32fe400637cced6e1833963fa87503167542954bbb37262c056c746d2e5d1fad7ceaf16bde7cf5258ac9f8620fb67cc099a4cc38d5e41cb82a2ab51908e8847da0d9ff5df1c9e6898379fa116ff913044c2174d5d2c0250595b255b2d2594210cb48418fe07c38bcf993eeeeadee508a1b12607bee211a1d35334b7bf3f5d8 
+28.3.2023, 18:11:20 - DEBUG - GOT: | 9907e0131ca224ff9b6f2c35cb397b47792ee87735ca6e7b14f72a32fe400637cced6e1833963fa87503167542954bbb37262c056c746d2e5d1fad7ceaf16bde7cf5258ac9f8620fb67cc099a4cc38d5e41cb82a2ab51908e8847da0d9ff5df1c9e6898379fa116ff913044c2174d5d2c0250595b255b2d2594210cb48418fe07c38bcf993eeeeadee508a1b12607bee211a1d35334b7bf3f5d8 
+28.3.2023, 18:12:18 - DEBUG - GOT: | 9907e0131ca224ff9b6f2c35cb397b47792ee87735ca6e7b14f72a32fe400637cced6e1833963fa87503167542954bbb37262c056c746d2e5d1fad7ceaf16bde7cf5258ac9f8620fb67cc099a4cc38d5e41cb82a2ab51908e8847da0d9ff5df1c9e6898379fa116ff913044c2174d5d2c0250595b255b2d2594210cb48418fe07c38bcf993eeeeadee508a1b12607bee211a1d35334b7bf3f5d8 
+28.3.2023, 18:12:23 - INFO - New connected socket [id: elmaHPUb1Yc3VEiOAAAD] 
+28.3.2023, 18:12:25 - INFO - Setting socket.userId = 6422f79f87b75159e5319fb1 for socket [id: elmaHPUb1Yc3VEiOAAAD] 
+28.3.2023, 18:13:15 - DEBUG - GOT: | 9907e0131ca224ff9b6f2c35cb397b47792ee87735ca6e7b14f72a32fe400637cced6e1833963fa87503167542954bbb37262c056c746d2e5d1fad7ceaf16bde7cf5258ac9f8620fb67cc099a4cc38d5e41cb82a2ab51908e8847da0d9ff5df1c9e6898379fa116ff913044c2174d5d2c0250595b255b2d2594210cb48418fe07c38bcf993eeeeadee508a1b12607bee211a1d35334b7bf3f5d8 
+28.3.2023, 18:18:20 - INFO - Socket disconnected [id: undefined] 
+28.3.2023, 18:18:22 - DEBUG - GOT: | 9907e0131ca224ff9b6f2c35cb397b47792ee87735ca6e7b14f72a32fe400637cced6e1833963fa87503167542954bbb37262c056c746d2e5d1fad7ceaf16bde7cf5258ac9f8620fb67cc099a4cc38d5e41cb82a2ab51908e8847da0d9ff5df1c9e6898379fa116ff913044c2174d5d2c0250595b255b2d2594210cb48418fe07c38bcf993eeeeadee508a1b12607bee211a1d35334b7bf3f5d8 
+28.3.2023, 18:18:23 - DEBUG - Getting Boards (userId: 6422f79f87b75159e5319fb1)
+28.3.2023, 18:18:23 - INFO - New connected socket [id: EWwQsjXfToBvM-UqAAAF] 
+28.3.2023, 18:18:23 - DEBUG - GOT: | 9907e0131ca224ff9b6f2c35cb397b47792ee87735ca6e7b14f72a32fe400637cced6e1833963fa87503167542954bbb37262c056c746d2e5d1fad7ceaf16bde7cf5258ac9f8620fb67cc099a4cc38d5e41cb82a2ab51908e8847da0d9ff5df1c9e6898379fa116ff913044c2174d5d2c0250595b255b2d2594210cb48418fe07c38bcf993eeeeadee508a1b12607bee211a1d35334b7bf3f5d8 
+28.3.2023, 18:18:26 - INFO - Setting socket.userId = 6422f79f87b75159e5319fb1 for socket [id: EWwQsjXfToBvM-UqAAAF] 
+28.3.2023, 18:28:39 - INFO - Server is running on port: 3030 
+28.3.2023, 18:28:41 - INFO - New connected socket [id: rhra1FGGzCeXwIzzAAAB] 
+28.3.2023, 18:32:22 - INFO - Server is running on port: 3030 
+28.3.2023, 18:32:23 - INFO - New connected socket [id: E-eafuGogLaKPxBDAAAB] 
+28.3.2023, 18:33:03 - INFO - Server is running on port: 3030 
+28.3.2023, 18:33:03 - INFO - New connected socket [id: BvBQkpHb7R1r5sP8AAAB] 
+28.3.2023, 18:38:51 - INFO - Socket disconnected [id: undefined] 
+28.3.2023, 18:38:54 - DEBUG - GOT: | 9907e0131ca224ff9b6f2c35cb397b47792ee87735ca6e7b14f72a32fe400637cced6e1833963fa87503167542954bbb37262c056c746d2e5d1fad7ceaf16bde7cf5258ac9f8620fb67cc099a4cc38d5e41cb82a2ab51908e8847da0d9ff5df1c9e6898379fa116ff913044c2174d5d2c0250595b255b2d2594210cb48418fe07c38bcf993eeeeadee508a1b12607bee211a1d35334b7bf3f5d8 
+28.3.2023, 18:38:55 - DEBUG - Getting Boards (userId: 6422f79f87b75159e5319fb1)
+28.3.2023, 18:38:55 - INFO - New connected socket [id: f7TvTdrqNiMfQEw_AAAD] 
+28.3.2023, 18:38:55 - DEBUG - GOT: | 9907e0131ca224ff9b6f2c35cb397b47792ee87735ca6e7b14f72a32fe400637cced6e1833963fa87503167542954bbb37262c056c746d2e5d1fad7ceaf16bde7cf5258ac9f8620fb67cc099a4cc38d5e41cb82a2ab51908e8847da0d9ff5df1c9e6898379fa116ff913044c2174d5d2c0250595b255b2d2594210cb48418fe07c38bcf993eeeeadee508a1b12607bee211a1d35334b7bf3f5d8 
+28.3.2023, 18:38:55 - INFO - Setting socket.userId = 6422f79f87b75159e5319fb1 for socket [id: f7TvTdrqNiMfQEw_AAAD] 
+28.3.2023, 18:40:24 - INFO - Socket disconnected [id: undefined] 
+28.3.2023, 18:40:33 - DEBUG - GOT: | 9907e0131ca224ff9b6f2c35cb397b47792ee87735ca6e7b14f72a32fe400637cced6e1833963fa87503167542954bbb37262c056c746d2e5d1fad7ceaf16bde7cf5258ac9f8620fb67cc099a4cc38d5e41cb82a2ab51908e8847da0d9ff5df1c9e6898379fa116ff913044c2174d5d2c0250595b255b2d2594210cb48418fe07c38bcf993eeeeadee508a1b12607bee211a1d35334b7bf3f5d8 
+28.3.2023, 18:40:33 - DEBUG - Getting Boards (userId: 6422f79f87b75159e5319fb1)
+28.3.2023, 18:40:33 - INFO - New connected socket [id: T06noZxKpL8-QYI2AAAF] 
+28.3.2023, 18:40:33 - DEBUG - GOT: | 9907e0131ca224ff9b6f2c35cb397b47792ee87735ca6e7b14f72a32fe400637cced6e1833963fa87503167542954bbb37262c056c746d2e5d1fad7ceaf16bde7cf5258ac9f8620fb67cc099a4cc38d5e41cb82a2ab51908e8847da0d9ff5df1c9e6898379fa116ff913044c2174d5d2c0250595b255b2d2594210cb48418fe07c38bcf993eeeeadee508a1b12607bee211a1d35334b7bf3f5d8 
+28.3.2023, 18:40:37 - INFO - Setting socket.userId = 6422f79f87b75159e5319fb1 for socket [id: T06noZxKpL8-QYI2AAAF] 

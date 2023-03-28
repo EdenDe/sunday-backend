@@ -1,5 +1,5 @@
 const boardService = require('./board.service.js')
-
+const socketService = require('../../services/socket.service.js')
 const logger = require('../../services/logger.service')
 
 async function getBoards(req, res) {
