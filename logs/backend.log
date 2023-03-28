@@ -1,0 +1,273 @@
+28.3.2023, 13:38:54 - INFO - Server is running on port: 3030 
+28.3.2023, 13:39:14 - DEBUG - GOT: |  
+28.3.2023, 13:40:29 - INFO - Server is running on port: 3030 
+28.3.2023, 13:42:16 - INFO - Server is running on port: 3030 
+28.3.2023, 13:46:11 - INFO - Server is running on port: 3030 
+28.3.2023, 13:46:21 - INFO - Server is running on port: 3030 
+28.3.2023, 13:46:25 - DEBUG - GOT: |  
+28.3.2023, 13:46:27 - DEBUG - GOT: |  
+28.3.2023, 13:49:14 - INFO - Server is running on port: 3030 
+28.3.2023, 13:49:17 - DEBUG - GOT: |  
+28.3.2023, 13:49:32 - INFO - Server is running on port: 3030 
+28.3.2023, 13:49:33 - DEBUG - GOT: |  
+28.3.2023, 13:51:36 - DEBUG - GOT: |  
+28.3.2023, 13:52:02 - DEBUG - GOT: |  
+28.3.2023, 13:52:18 - DEBUG - GOT: |  
+28.3.2023, 13:53:26 - DEBUG - GOT: |  
+28.3.2023, 13:53:26 - ERROR - cannot find users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+28.3.2023, 13:53:26 - ERROR - Failed to get users | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+28.3.2023, 13:53:38 - DEBUG - GOT: |  
+28.3.2023, 13:54:00 - INFO - Server is running on port: 3030 
+28.3.2023, 13:55:19 - INFO - Server is running on port: 3030 
+28.3.2023, 13:55:23 - INFO - Server is running on port: 3030 
+28.3.2023, 13:55:37 - DEBUG - GOT: |  
+28.3.2023, 13:55:37 - DEBUG - auth.service - signup with username: tamar, fullname: Tamar Shalem 
+28.3.2023, 13:55:37 - ERROR - Failed to signup Username already taken 
+28.3.2023, 13:56:05 - DEBUG - GOT: |  
+28.3.2023, 13:56:05 - DEBUG - auth.service - signup with username: tamar, fullname: Tamar Shalem 
+28.3.2023, 13:56:05 - ERROR - Failed to signup Username already taken 
+28.3.2023, 13:56:23 - INFO - Server is running on port: 3030 
+28.3.2023, 13:58:55 - INFO - Server is running on port: 3030 
+28.3.2023, 13:59:10 - INFO - Server is running on port: 3030 
+28.3.2023, 13:59:14 - DEBUG - GOT: |  
+28.3.2023, 13:59:14 - DEBUG - auth.service - signup with username: tamar, fullname: Tamar Shalem 
+28.3.2023, 13:59:14 - ERROR - Failed to signup Username already taken 
+28.3.2023, 13:59:24 - INFO - Server is running on port: 3030 
+28.3.2023, 13:59:57 - DEBUG - GOT: |  
+28.3.2023, 13:59:57 - DEBUG - auth.service - signup with username: tamar, fullname: Tamar Shalem 
+28.3.2023, 13:59:57 - DEBUG - auth.route - new account created: {"username":"tamar","password":"$2b$10$dNxjOr/2icGxQx5wsztqvufIIyINd5pCw6JkxWGZlFTyseo/.nXK2","fullname":"Tamar Shalem","color":"black","_id":"6422c8ad4965c0e9a4349cf5"} 
+28.3.2023, 13:59:57 - DEBUG - auth.service - login with username: tamar 
+28.3.2023, 13:59:57 - INFO - User signup: | {"_id":"6422c8ad4965c0e9a4349cf5","username":"tamar","fullname":"Tamar Shalem","imgUrl":null,"color":"black"} 
+28.3.2023, 14:00:09 - DEBUG - GOT: |  
+28.3.2023, 14:00:18 - DEBUG - GOT: |  
+28.3.2023, 14:00:22 - DEBUG - GOT: |  
+28.3.2023, 14:00:22 - DEBUG - auth.service - login with username: tamar 
+28.3.2023, 14:00:22 - INFO - User login:  | {"_id":"6422c8ad4965c0e9a4349cf5","username":"tamar","fullname":"Tamar Shalem","imgUrl":null,"color":"black"} 
+28.3.2023, 14:00:59 - DEBUG - GOT: |  
+28.3.2023, 14:01:05 - DEBUG - GOT: |  
+28.3.2023, 14:01:30 - DEBUG - GOT: |  
+28.3.2023, 14:01:34 - DEBUG - GOT: |  
+28.3.2023, 14:01:34 - DEBUG - auth.service - login with username: tamar 
+28.3.2023, 14:01:34 - INFO - User login:  | {"_id":"6422c8ad4965c0e9a4349cf5","username":"tamar","fullname":"Tamar Shalem","imgUrl":null,"color":"black"} 
+28.3.2023, 14:02:06 - INFO - Server is running on port: 3030 
+28.3.2023, 14:04:27 - DEBUG - GOT: |  
+28.3.2023, 14:05:37 - DEBUG - GOT: |  
+28.3.2023, 14:05:42 - DEBUG - GOT: |  
+28.3.2023, 14:06:24 - DEBUG - GOT: |  
+28.3.2023, 14:06:24 - ERROR - while finding board 6422ca06b6e548aa107ba12e | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+28.3.2023, 14:06:24 - ERROR - Failed to get board | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+28.3.2023, 14:06:34 - DEBUG - GOT: |  
+28.3.2023, 14:06:34 - ERROR - Failed to get board | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+28.3.2023, 14:06:34 - ERROR - while finding board 6422ca06b6e548aa107ba12e | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+28.3.2023, 14:07:25 - DEBUG - GOT: |  
+28.3.2023, 14:07:25 - ERROR - Failed to get board | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+28.3.2023, 14:07:25 - ERROR - while finding board 6422ca06b6e548aa107ba12e | TypeError: Class constructor ObjectId cannot be invoked without 'new' 
+28.3.2023, 14:07:50 - INFO - Server is running on port: 3030 
+28.3.2023, 14:07:53 - DEBUG - GOT: |  
+28.3.2023, 14:07:55 - DEBUG - GOT: |  
+28.3.2023, 14:08:30 - DEBUG - GOT: |  
+28.3.2023, 14:08:30 - DEBUG - Getting Boards 
+28.3.2023, 14:09:04 - DEBUG - GOT: |  
+28.3.2023, 14:09:04 - ERROR - Failed to update board | ReferenceError: boardToSave is not defined 
+28.3.2023, 14:09:04 - ERROR - cannot update board undefined | ReferenceError: boardToSave is not defined 
+28.3.2023, 14:11:27 - INFO - Server is running on port: 3030 
+28.3.2023, 14:11:30 - DEBUG - GOT: |  
+28.3.2023, 14:11:36 - DEBUG - GOT: |  
+28.3.2023, 14:11:54 - DEBUG - GOT: |  
+28.3.2023, 14:11:57 - DEBUG - GOT: |  
+28.3.2023, 14:12:05 - DEBUG - GOT: |  
+28.3.2023, 14:13:16 - DEBUG - GOT: |  
+28.3.2023, 14:14:23 - DEBUG - GOT: |  
+28.3.2023, 14:14:41 - INFO - Server is running on port: 3030 
+28.3.2023, 14:14:50 - DEBUG - GOT: |  
+28.3.2023, 14:14:50 - DEBUG - auth.service - login with username: tamar 
+28.3.2023, 14:14:50 - INFO - User login:  | {"_id":"6422c8ad4965c0e9a4349cf5","username":"tamar","fullname":"Tamar Shalem","imgUrl":null,"color":"black"} 
+28.3.2023, 14:14:54 - DEBUG - GOT: |  
+28.3.2023, 14:14:58 - DEBUG - GOT: |  
+28.3.2023, 14:16:43 - INFO - Server is running on port: 3030 
+28.3.2023, 14:18:02 - DEBUG - GOT: |  
+28.3.2023, 14:18:21 - DEBUG - GOT: |  
+28.3.2023, 14:18:34 - DEBUG - GOT: |  
+28.3.2023, 14:18:37 - DEBUG - GOT: |  
+28.3.2023, 14:19:09 - INFO - Server is running on port: 3030 
+28.3.2023, 14:19:13 - DEBUG - GOT: |  
+28.3.2023, 14:19:18 - DEBUG - GOT: |  
+28.3.2023, 14:19:21 - INFO - Server is running on port: 3030 
+28.3.2023, 14:19:57 - DEBUG - GOT: |  
+28.3.2023, 14:19:57 - ERROR - cannot update board undefined | MongoServerError: Performing an update on the path '_id' would modify the immutable field '_id' 
+28.3.2023, 14:19:57 - ERROR - Failed to update board | MongoServerError: Performing an update on the path '_id' would modify the immutable field '_id' 
+28.3.2023, 14:20:02 - DEBUG - GOT: |  
+28.3.2023, 14:20:02 - ERROR - cannot update board undefined | MongoServerError: Performing an update on the path '_id' would modify the immutable field '_id' 
+28.3.2023, 14:20:02 - ERROR - Failed to update board | MongoServerError: Performing an update on the path '_id' would modify the immutable field '_id' 
+28.3.2023, 14:20:59 - INFO - Server is running on port: 3030 
+28.3.2023, 14:21:02 - DEBUG - GOT: |  
+28.3.2023, 14:21:06 - DEBUG - GOT: |  
+28.3.2023, 14:22:01 - DEBUG - GOT: |  
+28.3.2023, 14:35:59 - DEBUG - GOT: |  
+28.3.2023, 14:36:16 - DEBUG - GOT: |  
+28.3.2023, 14:36:16 - DEBUG - Getting Boards 
+28.3.2023, 14:36:19 - DEBUG - GOT: |  
+28.3.2023, 14:36:22 - DEBUG - GOT: |  
+28.3.2023, 14:36:25 - DEBUG - GOT: |  
+28.3.2023, 14:36:45 - DEBUG - GOT: |  
+28.3.2023, 14:36:45 - DEBUG - Getting Boards 
+28.3.2023, 14:36:50 - DEBUG - GOT: |  
+28.3.2023, 14:41:08 - DEBUG - GOT: |  
+28.3.2023, 14:41:08 - DEBUG - Getting Boards 
+28.3.2023, 14:44:01 - DEBUG - GOT: |  
+28.3.2023, 14:44:01 - DEBUG - Getting Boards 
+28.3.2023, 14:44:03 - DEBUG - GOT: |  
+28.3.2023, 14:44:03 - DEBUG - Getting Boards 
+28.3.2023, 15:00:39 - DEBUG - GOT: |  
+28.3.2023, 15:00:39 - DEBUG - Getting Boards 
+28.3.2023, 15:01:12 - DEBUG - GOT: |  
+28.3.2023, 15:01:12 - DEBUG - Getting Boards 
+28.3.2023, 15:03:15 - DEBUG - GOT: |  
+28.3.2023, 15:03:15 - DEBUG - Getting Boards 
+28.3.2023, 15:05:29 - DEBUG - GOT: |  
+28.3.2023, 15:06:03 - DEBUG - GOT: |  
+28.3.2023, 15:06:03 - DEBUG - Getting Boards 
+28.3.2023, 15:06:03 - DEBUG - GOT: |  
+28.3.2023, 15:06:12 - DEBUG - GOT: |  
+28.3.2023, 15:06:12 - DEBUG - Getting Boards 
+28.3.2023, 15:06:12 - DEBUG - GOT: |  
+28.3.2023, 15:06:25 - DEBUG - GOT: |  
+28.3.2023, 15:08:35 - DEBUG - GOT: |  
+28.3.2023, 15:08:35 - DEBUG - Getting Boards 
+28.3.2023, 15:08:35 - DEBUG - GOT: |  
+28.3.2023, 15:08:42 - DEBUG - GOT: |  
+28.3.2023, 15:08:53 - DEBUG - GOT: |  
+28.3.2023, 15:09:11 - DEBUG - GOT: |  
+28.3.2023, 15:09:12 - DEBUG - GOT: |  
+28.3.2023, 15:09:12 - DEBUG - GOT: |  
+28.3.2023, 15:09:13 - DEBUG - GOT: |  
+28.3.2023, 15:23:05 - INFO - Server is running on port: 3030 
+28.3.2023, 15:29:14 - INFO - Server is running on port: 3030 
+28.3.2023, 15:30:17 - INFO - Server is running on port: 3030 
+28.3.2023, 15:30:24 - INFO - Server is running on port: 3030 
+28.3.2023, 15:30:32 - DEBUG - GOT: |  
+28.3.2023, 15:30:32 - DEBUG - Getting Boards 
+28.3.2023, 15:30:57 - DEBUG - GOT: |  
+28.3.2023, 15:31:10 - DEBUG - GOT: |  
+28.3.2023, 15:31:10 - DEBUG - Getting Boards 
+28.3.2023, 15:37:31 - DEBUG - GOT: |  
+28.3.2023, 15:37:31 - DEBUG - Getting Boards 
+28.3.2023, 15:45:35 - DEBUG - GOT: |  
+28.3.2023, 15:45:35 - DEBUG - auth.service - signup with username: tamar, fullname: undefined 
+28.3.2023, 15:45:35 - ERROR - Failed to signup Missing required signup information 
+28.3.2023, 15:45:38 - DEBUG - GOT: |  
+28.3.2023, 15:45:38 - DEBUG - auth.service - signup with username: tamar, fullname: undefined 
+28.3.2023, 15:45:38 - ERROR - Failed to signup Missing required signup information 
+28.3.2023, 15:46:10 - DEBUG - GOT: |  
+28.3.2023, 15:46:10 - DEBUG - auth.service - login with username: tamar 
+28.3.2023, 15:46:10 - ERROR - Failed to Login Invalid username or password 
+28.3.2023, 15:46:11 - DEBUG - GOT: |  
+28.3.2023, 15:46:11 - DEBUG - Getting Boards 
+28.3.2023, 15:46:45 - DEBUG - GOT: |  
+28.3.2023, 15:46:45 - DEBUG - Getting Boards 
+28.3.2023, 15:46:54 - DEBUG - GOT: |  
+28.3.2023, 15:46:54 - DEBUG - Getting Boards 
+28.3.2023, 15:47:45 - DEBUG - GOT: |  
+28.3.2023, 15:47:45 - DEBUG - Getting Boards 
+28.3.2023, 15:49:04 - DEBUG - GOT: |  
+28.3.2023, 15:49:04 - DEBUG - auth.service - signup with username: eden, fullname: eden 
+28.3.2023, 15:49:05 - DEBUG - auth.route - new account created: {"username":"eden","password":"$2b$10$FZ1cD9rj9XWrWOzpNCPmzONsNr9VEaO/Iy/MkO2zxeQZKoQkL56m6","fullname":"eden","color":"black","_id":"6422e240e6f5b31b74228325"} 
+28.3.2023, 15:49:05 - DEBUG - auth.service - login with username: eden 
+28.3.2023, 15:49:05 - INFO - User signup: | {"_id":"6422e240e6f5b31b74228325","username":"eden","fullname":"eden","imgUrl":null,"color":"black"} 
+28.3.2023, 15:49:05 - DEBUG - GOT: | 2a9421e971bd3754e93d0a126aebfdcc45a9936f46bcd058ac625a5781e0ea438725fb542de5e39a3beb36b653cd6247d3dc28406cb9a444bb768dc634a5b86a68a07a19af2fc2304f071a24d18bfd890a9e116ba4a91ef34d61c539e37f8fb44d233bb7ec154e6033a636cdd6ba83a78f0d407cce336b26163c69d7ce41a0286b31323cf63024530be2947b8dadfa4885c07fe9 
+28.3.2023, 15:49:05 - DEBUG - auth.service - login with username: eden (userId: 6422e240e6f5b31b74228325)
+28.3.2023, 15:49:05 - INFO - User login:  | {"_id":"6422e240e6f5b31b74228325","username":"eden","fullname":"eden","imgUrl":null,"color":"black"} (userId: 6422e240e6f5b31b74228325)
+28.3.2023, 15:49:12 - DEBUG - GOT: | d4c371c89b18f9026ea8bf593ce6732c110243e50ca6262d1e953e8fe76d7c088d34a1ba570ee2aed502a5e08258b63d9b1d506897a279193319ccbf7b37fd6fb6e47e895f570cb9504b74c006bbb6ee24b71a03d19716e1271a32b7a45e36f3bea10626ea959c25f17c3c223080f0fea1feab241935434da48092b1378e9f7a08a9c67e7a8a98f7c604977cfd2774b5f7f32d14 
+28.3.2023, 15:49:12 - DEBUG - auth.service - signup with username: eden, fullname: eden (userId: 6422e240e6f5b31b74228325)
+28.3.2023, 15:49:12 - ERROR - Failed to signup Username already taken (userId: 6422e240e6f5b31b74228325)
+28.3.2023, 15:49:45 - DEBUG - GOT: |  
+28.3.2023, 15:49:45 - DEBUG - auth.service - signup with username: tamar, fullname: Tamar Shalem 
+28.3.2023, 15:49:45 - DEBUG - auth.route - new account created: {"username":"tamar","password":"$2b$10$EY8j7UUiWhRwOYySEYS2a.Y3zvIuYtxJ3QVw5w2Q40vC3lbGtWuqy","fullname":"Tamar Shalem","color":"black","_id":"6422e269e6f5b31b74228326"} 
+28.3.2023, 15:49:45 - DEBUG - auth.service - login with username: tamar 
+28.3.2023, 15:49:46 - INFO - User signup: | {"_id":"6422e269e6f5b31b74228326","username":"tamar","fullname":"Tamar Shalem","imgUrl":null,"color":"black"} 
+28.3.2023, 15:50:28 - DEBUG - GOT: | d4c371c89b18f9026ea8bf593ce6732c110243e50ca6262d1e953e8fe76d7c088d34a1ba570ee2aed502a5e08258b63d9b1d506897a279193319ccbf7b37fd6fb6e47e895f570cb9504b74c006bbb6ee24b71a03d19716e1271a32b7a45e36f3bea10626ea959c25f17c3c223080f0fea1feab241935434da48092b1378e9f7a08a9c67e7a8a98f7c604977cfd2774b5f7f32d14 
+28.3.2023, 15:50:28 - DEBUG - auth.service - signup with username: eden, fullname: eden (userId: 6422e240e6f5b31b74228325)
+28.3.2023, 15:50:28 - DEBUG - auth.service - login with username: eden (userId: 6422e240e6f5b31b74228325)
+28.3.2023, 15:50:28 - DEBUG - auth.route - new account created: {"username":"eden","password":"$2b$10$sb4E4W9HHMIeJzsCwo2sruEcdkbIPyeZf5bXA1EqRk.JIEXwsTonC","fullname":"eden","color":"black","_id":"6422e294e6f5b31b74228327"} (userId: 6422e240e6f5b31b74228325)
+28.3.2023, 15:50:28 - INFO - User signup: | {"_id":"6422e294e6f5b31b74228327","username":"eden","fullname":"eden","imgUrl":null,"color":"black"} (userId: 6422e240e6f5b31b74228325)
+28.3.2023, 15:50:29 - DEBUG - GOT: | 479b4d9077b9efd80e432bcc933e026d15de18f78830d1b0643a75d9afdfbfb1d68dda2046b323d2039188ba63c054d6242fe3932d3dc976a7b129e09c7eaf291fec70f3927ab1330604c20f950ca4b21f80b685b2f3bde4fb08e7c631ecba7dde643c73c6ec67ad85e72efcd65ee17f9938ca0e221ed41b8aa83d0a0f010be6175c711145fdc32795b7d63bf762cdf933f82c32 
+28.3.2023, 15:50:29 - DEBUG - auth.service - login with username: eden (userId: 6422e294e6f5b31b74228327)
+28.3.2023, 15:50:29 - INFO - User login:  | {"_id":"6422e294e6f5b31b74228327","username":"eden","fullname":"eden","imgUrl":null,"color":"black"} (userId: 6422e294e6f5b31b74228327)
+28.3.2023, 15:52:50 - DEBUG - GOT: | d83cde61881fe0fe9555056b4c779e07622064a212b8f9148bee16b875f92c3eb133c06b0a961f77ec0e4a8f47a29ccd67d604c103ce565b71cabaf82bbaf62fb6ae47909f5da7fb2d211554e3d10d3d2d9c06127543362390a247907625d652c9859376ba55c4a6138b960caec91e538d2307149187b45e301cdf870d353061eb4214a36dc90847eca626bfae75dd0c23c853d5 
+28.3.2023, 15:52:50 - DEBUG - auth.service - login with username: eden (userId: 6422e294e6f5b31b74228327)
+28.3.2023, 15:52:51 - INFO - User login:  | {"_id":"6422e294e6f5b31b74228327","username":"eden","fullname":"eden","imgUrl":null,"color":"black"} (userId: 6422e294e6f5b31b74228327)
+28.3.2023, 15:52:54 - DEBUG - GOT: | 5c929c281c9e41e6c7cfb4e51612b40a4438cfd42d0becdce7650a518c7fb31dc1abaa5f184dc5ba5c61a1a4362ddcc3392a6bbf1b081ea31a3cbb7c54cdb391acd7f6c8b5cb186e14e8189aa2f5db983ded5eee7585d5950146debd70fb5827a5a94f305bc5d3d9363f1d18bf149129f41badaf94d7979bd4d06cd9dda6eac0f38cba24ea114b5f7b468db8ff1c43b106098183 
+28.3.2023, 15:52:54 - DEBUG - auth.service - login with username: eden (userId: 6422e294e6f5b31b74228327)
+28.3.2023, 15:52:54 - ERROR - Failed to Login Invalid username or password (userId: 6422e294e6f5b31b74228327)
+28.3.2023, 15:52:55 - DEBUG - GOT: | 5c929c281c9e41e6c7cfb4e51612b40a4438cfd42d0becdce7650a518c7fb31dc1abaa5f184dc5ba5c61a1a4362ddcc3392a6bbf1b081ea31a3cbb7c54cdb391acd7f6c8b5cb186e14e8189aa2f5db983ded5eee7585d5950146debd70fb5827a5a94f305bc5d3d9363f1d18bf149129f41badaf94d7979bd4d06cd9dda6eac0f38cba24ea114b5f7b468db8ff1c43b106098183 
+28.3.2023, 15:52:55 - DEBUG - Getting Boards (userId: 6422e294e6f5b31b74228327)
+28.3.2023, 15:53:05 - DEBUG - GOT: |  
+28.3.2023, 15:53:05 - DEBUG - auth.service - login with username: tamar 
+28.3.2023, 15:53:05 - INFO - User login:  | {"_id":"6422e269e6f5b31b74228326","username":"tamar","fullname":"Tamar Shalem","imgUrl":null,"color":"black"} 
+28.3.2023, 15:53:27 - DEBUG - GOT: | 5c929c281c9e41e6c7cfb4e51612b40a4438cfd42d0becdce7650a518c7fb31dc1abaa5f184dc5ba5c61a1a4362ddcc3392a6bbf1b081ea31a3cbb7c54cdb391acd7f6c8b5cb186e14e8189aa2f5db983ded5eee7585d5950146debd70fb5827a5a94f305bc5d3d9363f1d18bf149129f41badaf94d7979bd4d06cd9dda6eac0f38cba24ea114b5f7b468db8ff1c43b106098183 
+28.3.2023, 15:53:27 - DEBUG - auth.service - login with username: tamar (userId: 6422e294e6f5b31b74228327)
+28.3.2023, 15:53:27 - INFO - User login:  | {"_id":"6422e269e6f5b31b74228326","username":"tamar","fullname":"Tamar Shalem","imgUrl":null,"color":"black"} (userId: 6422e294e6f5b31b74228327)
+28.3.2023, 15:54:25 - DEBUG - GOT: | 7371e26ad707a07b37d93ac5d1cac1ea986b21778a9f759c520b87c99173194350ca5604f6ab63359bb4401de4f874b3786954ca254e75c861da92d6b76ed44ae7e29ece1331f86650a16aed037661eafdffff1f43309b9d31c61cb1663b94918d275f4f32d73ee4e8149d536015a16de01ca9e1c1c887c1e48fc1f636555df3661275ea95cfbf3084b6075f53a60959a2f70e7a9b9795d98c7270b6 
+28.3.2023, 15:54:25 - DEBUG - auth.service - login with username: tamar (userId: 6422e269e6f5b31b74228326)
+28.3.2023, 15:54:26 - INFO - User login:  | {"_id":"6422e269e6f5b31b74228326","username":"tamar","fullname":"Tamar Shalem","imgUrl":null,"color":"black"} (userId: 6422e269e6f5b31b74228326)
+28.3.2023, 15:54:42 - DEBUG - GOT: | 32e2eb4d1c5306dd7db088a1778ab012d975ddda1ca0b59d8a17a5be5dbd174b24db00555db79bebb7b815eb4473c639477243add2353128898eedec51aea7e4fb66680b06a180488b48b7b0f7c65232047622bfeb11a0fde5bd1fd926c822e060ccba731ad5df5550b5061dac847d1cd8c1f967f4ae11880bffbd1292ceba845e7f1d746d2cfaeb6f7ea3fb81c9fe5b0b0142779825bb7264bfe487 
+28.3.2023, 15:54:42 - DEBUG - auth.service - login with username: tamar (userId: 6422e269e6f5b31b74228326)
+28.3.2023, 15:54:42 - INFO - User login:  | {"_id":"6422e269e6f5b31b74228326","username":"tamar","fullname":"Tamar Shalem","imgUrl":null,"color":"black"} (userId: 6422e269e6f5b31b74228326)
+28.3.2023, 15:54:47 - DEBUG - GOT: | 5f8870dc8079940d17268391bb87a4544e306ddee551a7f136545a273af7103d1edade393f641595c6a7190142760683e67b8958c852895413da9302414840fc13cac4f6f9e949ef290506022cdb10c5222618935bcddfdc1a6ddddfa6e0a9db4ad563e80d3d144e5ce77e70fd4b3a74aa3e9f56a9b71e9592f487119b6ce9b3693e304b5205f11fba6aaa3455d4c606a80593c01983bfb282c10e30 
+28.3.2023, 15:55:12 - DEBUG - GOT: | 5f8870dc8079940d17268391bb87a4544e306ddee551a7f136545a273af7103d1edade393f641595c6a7190142760683e67b8958c852895413da9302414840fc13cac4f6f9e949ef290506022cdb10c5222618935bcddfdc1a6ddddfa6e0a9db4ad563e80d3d144e5ce77e70fd4b3a74aa3e9f56a9b71e9592f487119b6ce9b3693e304b5205f11fba6aaa3455d4c606a80593c01983bfb282c10e30 
+28.3.2023, 15:55:12 - DEBUG - Getting Boards (userId: 6422e269e6f5b31b74228326)
+28.3.2023, 15:55:12 - DEBUG - GOT: | 5f8870dc8079940d17268391bb87a4544e306ddee551a7f136545a273af7103d1edade393f641595c6a7190142760683e67b8958c852895413da9302414840fc13cac4f6f9e949ef290506022cdb10c5222618935bcddfdc1a6ddddfa6e0a9db4ad563e80d3d144e5ce77e70fd4b3a74aa3e9f56a9b71e9592f487119b6ce9b3693e304b5205f11fba6aaa3455d4c606a80593c01983bfb282c10e30 
+28.3.2023, 15:55:25 - DEBUG - GOT: | 5f8870dc8079940d17268391bb87a4544e306ddee551a7f136545a273af7103d1edade393f641595c6a7190142760683e67b8958c852895413da9302414840fc13cac4f6f9e949ef290506022cdb10c5222618935bcddfdc1a6ddddfa6e0a9db4ad563e80d3d144e5ce77e70fd4b3a74aa3e9f56a9b71e9592f487119b6ce9b3693e304b5205f11fba6aaa3455d4c606a80593c01983bfb282c10e30 
+28.3.2023, 15:55:31 - DEBUG - GOT: | 5f8870dc8079940d17268391bb87a4544e306ddee551a7f136545a273af7103d1edade393f641595c6a7190142760683e67b8958c852895413da9302414840fc13cac4f6f9e949ef290506022cdb10c5222618935bcddfdc1a6ddddfa6e0a9db4ad563e80d3d144e5ce77e70fd4b3a74aa3e9f56a9b71e9592f487119b6ce9b3693e304b5205f11fba6aaa3455d4c606a80593c01983bfb282c10e30 
+28.3.2023, 15:55:37 - DEBUG - GOT: | 5f8870dc8079940d17268391bb87a4544e306ddee551a7f136545a273af7103d1edade393f641595c6a7190142760683e67b8958c852895413da9302414840fc13cac4f6f9e949ef290506022cdb10c5222618935bcddfdc1a6ddddfa6e0a9db4ad563e80d3d144e5ce77e70fd4b3a74aa3e9f56a9b71e9592f487119b6ce9b3693e304b5205f11fba6aaa3455d4c606a80593c01983bfb282c10e30 
+28.3.2023, 15:55:37 - DEBUG - Getting Boards (userId: 6422e269e6f5b31b74228326)
+28.3.2023, 15:55:37 - DEBUG - GOT: | 5f8870dc8079940d17268391bb87a4544e306ddee551a7f136545a273af7103d1edade393f641595c6a7190142760683e67b8958c852895413da9302414840fc13cac4f6f9e949ef290506022cdb10c5222618935bcddfdc1a6ddddfa6e0a9db4ad563e80d3d144e5ce77e70fd4b3a74aa3e9f56a9b71e9592f487119b6ce9b3693e304b5205f11fba6aaa3455d4c606a80593c01983bfb282c10e30 
+28.3.2023, 15:55:49 - DEBUG - GOT: | 5f8870dc8079940d17268391bb87a4544e306ddee551a7f136545a273af7103d1edade393f641595c6a7190142760683e67b8958c852895413da9302414840fc13cac4f6f9e949ef290506022cdb10c5222618935bcddfdc1a6ddddfa6e0a9db4ad563e80d3d144e5ce77e70fd4b3a74aa3e9f56a9b71e9592f487119b6ce9b3693e304b5205f11fba6aaa3455d4c606a80593c01983bfb282c10e30 
+28.3.2023, 16:04:21 - DEBUG - GOT: | 5f8870dc8079940d17268391bb87a4544e306ddee551a7f136545a273af7103d1edade393f641595c6a7190142760683e67b8958c852895413da9302414840fc13cac4f6f9e949ef290506022cdb10c5222618935bcddfdc1a6ddddfa6e0a9db4ad563e80d3d144e5ce77e70fd4b3a74aa3e9f56a9b71e9592f487119b6ce9b3693e304b5205f11fba6aaa3455d4c606a80593c01983bfb282c10e30 
+28.3.2023, 16:04:21 - DEBUG - Getting Boards (userId: 6422e269e6f5b31b74228326)
+28.3.2023, 16:04:21 - DEBUG - GOT: | 5f8870dc8079940d17268391bb87a4544e306ddee551a7f136545a273af7103d1edade393f641595c6a7190142760683e67b8958c852895413da9302414840fc13cac4f6f9e949ef290506022cdb10c5222618935bcddfdc1a6ddddfa6e0a9db4ad563e80d3d144e5ce77e70fd4b3a74aa3e9f56a9b71e9592f487119b6ce9b3693e304b5205f11fba6aaa3455d4c606a80593c01983bfb282c10e30 
+28.3.2023, 16:04:26 - DEBUG - GOT: | 5f8870dc8079940d17268391bb87a4544e306ddee551a7f136545a273af7103d1edade393f641595c6a7190142760683e67b8958c852895413da9302414840fc13cac4f6f9e949ef290506022cdb10c5222618935bcddfdc1a6ddddfa6e0a9db4ad563e80d3d144e5ce77e70fd4b3a74aa3e9f56a9b71e9592f487119b6ce9b3693e304b5205f11fba6aaa3455d4c606a80593c01983bfb282c10e30 
+28.3.2023, 16:04:26 - DEBUG - Getting Boards (userId: 6422e269e6f5b31b74228326)
+28.3.2023, 16:04:26 - DEBUG - GOT: | 5f8870dc8079940d17268391bb87a4544e306ddee551a7f136545a273af7103d1edade393f641595c6a7190142760683e67b8958c852895413da9302414840fc13cac4f6f9e949ef290506022cdb10c5222618935bcddfdc1a6ddddfa6e0a9db4ad563e80d3d144e5ce77e70fd4b3a74aa3e9f56a9b71e9592f487119b6ce9b3693e304b5205f11fba6aaa3455d4c606a80593c01983bfb282c10e30 
+28.3.2023, 16:04:35 - DEBUG - GOT: | 5f8870dc8079940d17268391bb87a4544e306ddee551a7f136545a273af7103d1edade393f641595c6a7190142760683e67b8958c852895413da9302414840fc13cac4f6f9e949ef290506022cdb10c5222618935bcddfdc1a6ddddfa6e0a9db4ad563e80d3d144e5ce77e70fd4b3a74aa3e9f56a9b71e9592f487119b6ce9b3693e304b5205f11fba6aaa3455d4c606a80593c01983bfb282c10e30 
+28.3.2023, 16:04:35 - DEBUG - Getting Boards (userId: 6422e269e6f5b31b74228326)
+28.3.2023, 16:04:35 - DEBUG - GOT: | 5f8870dc8079940d17268391bb87a4544e306ddee551a7f136545a273af7103d1edade393f641595c6a7190142760683e67b8958c852895413da9302414840fc13cac4f6f9e949ef290506022cdb10c5222618935bcddfdc1a6ddddfa6e0a9db4ad563e80d3d144e5ce77e70fd4b3a74aa3e9f56a9b71e9592f487119b6ce9b3693e304b5205f11fba6aaa3455d4c606a80593c01983bfb282c10e30 
+28.3.2023, 16:04:51 - DEBUG - GOT: | 5f8870dc8079940d17268391bb87a4544e306ddee551a7f136545a273af7103d1edade393f641595c6a7190142760683e67b8958c852895413da9302414840fc13cac4f6f9e949ef290506022cdb10c5222618935bcddfdc1a6ddddfa6e0a9db4ad563e80d3d144e5ce77e70fd4b3a74aa3e9f56a9b71e9592f487119b6ce9b3693e304b5205f11fba6aaa3455d4c606a80593c01983bfb282c10e30 
+28.3.2023, 16:04:51 - DEBUG - Getting Boards (userId: 6422e269e6f5b31b74228326)
+28.3.2023, 16:04:51 - DEBUG - GOT: | 5f8870dc8079940d17268391bb87a4544e306ddee551a7f136545a273af7103d1edade393f641595c6a7190142760683e67b8958c852895413da9302414840fc13cac4f6f9e949ef290506022cdb10c5222618935bcddfdc1a6ddddfa6e0a9db4ad563e80d3d144e5ce77e70fd4b3a74aa3e9f56a9b71e9592f487119b6ce9b3693e304b5205f11fba6aaa3455d4c606a80593c01983bfb282c10e30 
+28.3.2023, 16:06:24 - DEBUG - GOT: | 5f8870dc8079940d17268391bb87a4544e306ddee551a7f136545a273af7103d1edade393f641595c6a7190142760683e67b8958c852895413da9302414840fc13cac4f6f9e949ef290506022cdb10c5222618935bcddfdc1a6ddddfa6e0a9db4ad563e80d3d144e5ce77e70fd4b3a74aa3e9f56a9b71e9592f487119b6ce9b3693e304b5205f11fba6aaa3455d4c606a80593c01983bfb282c10e30 
+28.3.2023, 16:06:24 - DEBUG - Getting Boards (userId: 6422e269e6f5b31b74228326)
+28.3.2023, 16:06:24 - DEBUG - GOT: | 5f8870dc8079940d17268391bb87a4544e306ddee551a7f136545a273af7103d1edade393f641595c6a7190142760683e67b8958c852895413da9302414840fc13cac4f6f9e949ef290506022cdb10c5222618935bcddfdc1a6ddddfa6e0a9db4ad563e80d3d144e5ce77e70fd4b3a74aa3e9f56a9b71e9592f487119b6ce9b3693e304b5205f11fba6aaa3455d4c606a80593c01983bfb282c10e30 
+28.3.2023, 16:07:55 - DEBUG - GOT: | 5f8870dc8079940d17268391bb87a4544e306ddee551a7f136545a273af7103d1edade393f641595c6a7190142760683e67b8958c852895413da9302414840fc13cac4f6f9e949ef290506022cdb10c5222618935bcddfdc1a6ddddfa6e0a9db4ad563e80d3d144e5ce77e70fd4b3a74aa3e9f56a9b71e9592f487119b6ce9b3693e304b5205f11fba6aaa3455d4c606a80593c01983bfb282c10e30 
+28.3.2023, 16:07:55 - DEBUG - Getting Boards (userId: 6422e269e6f5b31b74228326)
+28.3.2023, 16:07:55 - DEBUG - GOT: | 5f8870dc8079940d17268391bb87a4544e306ddee551a7f136545a273af7103d1edade393f641595c6a7190142760683e67b8958c852895413da9302414840fc13cac4f6f9e949ef290506022cdb10c5222618935bcddfdc1a6ddddfa6e0a9db4ad563e80d3d144e5ce77e70fd4b3a74aa3e9f56a9b71e9592f487119b6ce9b3693e304b5205f11fba6aaa3455d4c606a80593c01983bfb282c10e30 
+28.3.2023, 16:07:58 - DEBUG - GOT: | 5f8870dc8079940d17268391bb87a4544e306ddee551a7f136545a273af7103d1edade393f641595c6a7190142760683e67b8958c852895413da9302414840fc13cac4f6f9e949ef290506022cdb10c5222618935bcddfdc1a6ddddfa6e0a9db4ad563e80d3d144e5ce77e70fd4b3a74aa3e9f56a9b71e9592f487119b6ce9b3693e304b5205f11fba6aaa3455d4c606a80593c01983bfb282c10e30 
+28.3.2023, 16:08:03 - DEBUG - GOT: | 5f8870dc8079940d17268391bb87a4544e306ddee551a7f136545a273af7103d1edade393f641595c6a7190142760683e67b8958c852895413da9302414840fc13cac4f6f9e949ef290506022cdb10c5222618935bcddfdc1a6ddddfa6e0a9db4ad563e80d3d144e5ce77e70fd4b3a74aa3e9f56a9b71e9592f487119b6ce9b3693e304b5205f11fba6aaa3455d4c606a80593c01983bfb282c10e30 
+28.3.2023, 16:08:03 - DEBUG - Getting Boards (userId: 6422e269e6f5b31b74228326)
+28.3.2023, 16:08:03 - DEBUG - GOT: | 5f8870dc8079940d17268391bb87a4544e306ddee551a7f136545a273af7103d1edade393f641595c6a7190142760683e67b8958c852895413da9302414840fc13cac4f6f9e949ef290506022cdb10c5222618935bcddfdc1a6ddddfa6e0a9db4ad563e80d3d144e5ce77e70fd4b3a74aa3e9f56a9b71e9592f487119b6ce9b3693e304b5205f11fba6aaa3455d4c606a80593c01983bfb282c10e30 
+28.3.2023, 16:08:31 - DEBUG - GOT: | 5f8870dc8079940d17268391bb87a4544e306ddee551a7f136545a273af7103d1edade393f641595c6a7190142760683e67b8958c852895413da9302414840fc13cac4f6f9e949ef290506022cdb10c5222618935bcddfdc1a6ddddfa6e0a9db4ad563e80d3d144e5ce77e70fd4b3a74aa3e9f56a9b71e9592f487119b6ce9b3693e304b5205f11fba6aaa3455d4c606a80593c01983bfb282c10e30 
+28.3.2023, 16:08:32 - DEBUG - Getting Boards (userId: 6422e269e6f5b31b74228326)
+28.3.2023, 16:08:46 - DEBUG - GOT: | 5f8870dc8079940d17268391bb87a4544e306ddee551a7f136545a273af7103d1edade393f641595c6a7190142760683e67b8958c852895413da9302414840fc13cac4f6f9e949ef290506022cdb10c5222618935bcddfdc1a6ddddfa6e0a9db4ad563e80d3d144e5ce77e70fd4b3a74aa3e9f56a9b71e9592f487119b6ce9b3693e304b5205f11fba6aaa3455d4c606a80593c01983bfb282c10e30 
+28.3.2023, 16:08:46 - DEBUG - auth.service - signup with username: matan, fullname: matan (userId: 6422e269e6f5b31b74228326)
+28.3.2023, 16:08:46 - DEBUG - auth.service - login with username: matan (userId: 6422e269e6f5b31b74228326)
+28.3.2023, 16:08:46 - DEBUG - auth.route - new account created: {"username":"matan","password":"$2b$10$sgebRXMCEKp89ZTlEFopGu8kRP7ZJVdKAohCbuME4o3s97S2xPmCe","fullname":"matan","color":"black","_id":"6422e6dee6f5b31b74228328"} (userId: 6422e269e6f5b31b74228326)
+28.3.2023, 16:08:46 - INFO - User signup: | {"_id":"6422e6dee6f5b31b74228328","username":"matan","fullname":"matan","imgUrl":null,"color":"black"} (userId: 6422e269e6f5b31b74228326)
+28.3.2023, 16:08:46 - DEBUG - GOT: | b2f575e137fe6160f4fb6cfab54b69212d521574d72a0e7ddeddc29ab410ef87478ac232b373b5ac9dd41a0694f557f49f3d6accdbca1908c8e21bf40ea26eccb972d07111ceecce05072ab8b1838f46d9067c9a73857a3d1dc3816bdcdc61a413d523170cf6596df917c36df6ae5063fefdee5223840b01feac60e5827608348e7a86bc5d88d4832fd608015c87cbe6868ad8ba34 
+28.3.2023, 16:08:46 - DEBUG - auth.service - login with username: matan (userId: 6422e6dee6f5b31b74228328)
+28.3.2023, 16:08:47 - INFO - User login:  | {"_id":"6422e6dee6f5b31b74228328","username":"matan","fullname":"matan","imgUrl":null,"color":"black"} (userId: 6422e6dee6f5b31b74228328)
+28.3.2023, 16:08:47 - DEBUG - GOT: | 1532b0b747a98f18388b627c50c1dae8061f0167a5417ab7f8ccb13df9b2e907e8216587df873d32b4e469accd1958a5cd5ec1f2b033c26f814809c401c627a0f9d84f3ec55d5574e1dc40e64298dc571e371a2257206ec0bb2b0ee117659db3cc6c302a8596444d698db690b71956f6ed7a1833e238d948b25205ab432c536c076c9e289b69bde05fee85f8558e2945a4e67eb49b 
+28.3.2023, 16:09:57 - DEBUG - GOT: | 1532b0b747a98f18388b627c50c1dae8061f0167a5417ab7f8ccb13df9b2e907e8216587df873d32b4e469accd1958a5cd5ec1f2b033c26f814809c401c627a0f9d84f3ec55d5574e1dc40e64298dc571e371a2257206ec0bb2b0ee117659db3cc6c302a8596444d698db690b71956f6ed7a1833e238d948b25205ab432c536c076c9e289b69bde05fee85f8558e2945a4e67eb49b 
+28.3.2023, 16:09:57 - DEBUG - Getting Boards (userId: 6422e6dee6f5b31b74228328)
+28.3.2023, 16:09:57 - DEBUG - GOT: | 1532b0b747a98f18388b627c50c1dae8061f0167a5417ab7f8ccb13df9b2e907e8216587df873d32b4e469accd1958a5cd5ec1f2b033c26f814809c401c627a0f9d84f3ec55d5574e1dc40e64298dc571e371a2257206ec0bb2b0ee117659db3cc6c302a8596444d698db690b71956f6ed7a1833e238d948b25205ab432c536c076c9e289b69bde05fee85f8558e2945a4e67eb49b 
+28.3.2023, 16:26:04 - DEBUG - Getting Boards (userId: 6422e6dee6f5b31b74228328)
+28.3.2023, 16:26:04 - DEBUG - GOT: | 1532b0b747a98f18388b627c50c1dae8061f0167a5417ab7f8ccb13df9b2e907e8216587df873d32b4e469accd1958a5cd5ec1f2b033c26f814809c401c627a0f9d84f3ec55d5574e1dc40e64298dc571e371a2257206ec0bb2b0ee117659db3cc6c302a8596444d698db690b71956f6ed7a1833e238d948b25205ab432c536c076c9e289b69bde05fee85f8558e2945a4e67eb49b 
+28.3.2023, 16:26:04 - DEBUG - GOT: | 1532b0b747a98f18388b627c50c1dae8061f0167a5417ab7f8ccb13df9b2e907e8216587df873d32b4e469accd1958a5cd5ec1f2b033c26f814809c401c627a0f9d84f3ec55d5574e1dc40e64298dc571e371a2257206ec0bb2b0ee117659db3cc6c302a8596444d698db690b71956f6ed7a1833e238d948b25205ab432c536c076c9e289b69bde05fee85f8558e2945a4e67eb49b 
+28.3.2023, 16:28:39 - DEBUG - GOT: | 1532b0b747a98f18388b627c50c1dae8061f0167a5417ab7f8ccb13df9b2e907e8216587df873d32b4e469accd1958a5cd5ec1f2b033c26f814809c401c627a0f9d84f3ec55d5574e1dc40e64298dc571e371a2257206ec0bb2b0ee117659db3cc6c302a8596444d698db690b71956f6ed7a1833e238d948b25205ab432c536c076c9e289b69bde05fee85f8558e2945a4e67eb49b 
+28.3.2023, 16:28:43 - DEBUG - GOT: | 1532b0b747a98f18388b627c50c1dae8061f0167a5417ab7f8ccb13df9b2e907e8216587df873d32b4e469accd1958a5cd5ec1f2b033c26f814809c401c627a0f9d84f3ec55d5574e1dc40e64298dc571e371a2257206ec0bb2b0ee117659db3cc6c302a8596444d698db690b71956f6ed7a1833e238d948b25205ab432c536c076c9e289b69bde05fee85f8558e2945a4e67eb49b 
+28.3.2023, 16:28:46 - DEBUG - GOT: | 1532b0b747a98f18388b627c50c1dae8061f0167a5417ab7f8ccb13df9b2e907e8216587df873d32b4e469accd1958a5cd5ec1f2b033c26f814809c401c627a0f9d84f3ec55d5574e1dc40e64298dc571e371a2257206ec0bb2b0ee117659db3cc6c302a8596444d698db690b71956f6ed7a1833e238d948b25205ab432c536c076c9e289b69bde05fee85f8558e2945a4e67eb49b 
+28.3.2023, 16:36:24 - DEBUG - GOT: | 1532b0b747a98f18388b627c50c1dae8061f0167a5417ab7f8ccb13df9b2e907e8216587df873d32b4e469accd1958a5cd5ec1f2b033c26f814809c401c627a0f9d84f3ec55d5574e1dc40e64298dc571e371a2257206ec0bb2b0ee117659db3cc6c302a8596444d698db690b71956f6ed7a1833e238d948b25205ab432c536c076c9e289b69bde05fee85f8558e2945a4e67eb49b 
+28.3.2023, 16:36:24 - DEBUG - GOT: | 1532b0b747a98f18388b627c50c1dae8061f0167a5417ab7f8ccb13df9b2e907e8216587df873d32b4e469accd1958a5cd5ec1f2b033c26f814809c401c627a0f9d84f3ec55d5574e1dc40e64298dc571e371a2257206ec0bb2b0ee117659db3cc6c302a8596444d698db690b71956f6ed7a1833e238d948b25205ab432c536c076c9e289b69bde05fee85f8558e2945a4e67eb49b 
+28.3.2023, 16:36:27 - DEBUG - GOT: | 1532b0b747a98f18388b627c50c1dae8061f0167a5417ab7f8ccb13df9b2e907e8216587df873d32b4e469accd1958a5cd5ec1f2b033c26f814809c401c627a0f9d84f3ec55d5574e1dc40e64298dc571e371a2257206ec0bb2b0ee117659db3cc6c302a8596444d698db690b71956f6ed7a1833e238d948b25205ab432c536c076c9e289b69bde05fee85f8558e2945a4e67eb49b 
+28.3.2023, 16:36:41 - DEBUG - GOT: | 1532b0b747a98f18388b627c50c1dae8061f0167a5417ab7f8ccb13df9b2e907e8216587df873d32b4e469accd1958a5cd5ec1f2b033c26f814809c401c627a0f9d84f3ec55d5574e1dc40e64298dc571e371a2257206ec0bb2b0ee117659db3cc6c302a8596444d698db690b71956f6ed7a1833e238d948b25205ab432c536c076c9e289b69bde05fee85f8558e2945a4e67eb49b 
+28.3.2023, 16:36:41 - DEBUG - GOT: | 1532b0b747a98f18388b627c50c1dae8061f0167a5417ab7f8ccb13df9b2e907e8216587df873d32b4e469accd1958a5cd5ec1f2b033c26f814809c401c627a0f9d84f3ec55d5574e1dc40e64298dc571e371a2257206ec0bb2b0ee117659db3cc6c302a8596444d698db690b71956f6ed7a1833e238d948b25205ab432c536c076c9e289b69bde05fee85f8558e2945a4e67eb49b 
+28.3.2023, 16:36:43 - DEBUG - GOT: | 1532b0b747a98f18388b627c50c1dae8061f0167a5417ab7f8ccb13df9b2e907e8216587df873d32b4e469accd1958a5cd5ec1f2b033c26f814809c401c627a0f9d84f3ec55d5574e1dc40e64298dc571e371a2257206ec0bb2b0ee117659db3cc6c302a8596444d698db690b71956f6ed7a1833e238d948b25205ab432c536c076c9e289b69bde05fee85f8558e2945a4e67eb49b 
