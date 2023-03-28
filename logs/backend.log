@@ -271,3 +271,71 @@
 28.3.2023, 16:36:41 - DEBUG - GOT: | 1532b0b747a98f18388b627c50c1dae8061f0167a5417ab7f8ccb13df9b2e907e8216587df873d32b4e469accd1958a5cd5ec1f2b033c26f814809c401c627a0f9d84f3ec55d5574e1dc40e64298dc571e371a2257206ec0bb2b0ee117659db3cc6c302a8596444d698db690b71956f6ed7a1833e238d948b25205ab432c536c076c9e289b69bde05fee85f8558e2945a4e67eb49b 
 28.3.2023, 16:36:41 - DEBUG - GOT: | 1532b0b747a98f18388b627c50c1dae8061f0167a5417ab7f8ccb13df9b2e907e8216587df873d32b4e469accd1958a5cd5ec1f2b033c26f814809c401c627a0f9d84f3ec55d5574e1dc40e64298dc571e371a2257206ec0bb2b0ee117659db3cc6c302a8596444d698db690b71956f6ed7a1833e238d948b25205ab432c536c076c9e289b69bde05fee85f8558e2945a4e67eb49b 
 28.3.2023, 16:36:43 - DEBUG - GOT: | 1532b0b747a98f18388b627c50c1dae8061f0167a5417ab7f8ccb13df9b2e907e8216587df873d32b4e469accd1958a5cd5ec1f2b033c26f814809c401c627a0f9d84f3ec55d5574e1dc40e64298dc571e371a2257206ec0bb2b0ee117659db3cc6c302a8596444d698db690b71956f6ed7a1833e238d948b25205ab432c536c076c9e289b69bde05fee85f8558e2945a4e67eb49b 
+28.3.2023, 18:25:56 - INFO - Server is running on port: 3030 
+28.3.2023, 18:29:08 - INFO - Server is running on port: 3030 
+28.3.2023, 20:05:18 - DEBUG - GOT: |  
+28.3.2023, 20:05:18 - DEBUG - Getting Boards 
+28.3.2023, 20:05:18 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 20:05:18 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 20:05:18 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 20:05:18 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 20:19:06 - DEBUG - GOT: |  
+28.3.2023, 20:19:06 - DEBUG - auth.service - signup with username: tamar, fullname: tamar shalem 
+28.3.2023, 20:19:06 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 20:19:06 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 20:19:06 - ERROR - while finding user by username: tamar | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 20:19:06 - ERROR - Failed to signup TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 20:20:34 - INFO - Server is running on port: 3030 
+28.3.2023, 20:20:55 - DEBUG - GOT: |  
+28.3.2023, 20:20:55 - DEBUG - auth.service - signup with username: tamar, fullname: tamar 
+28.3.2023, 20:20:55 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 20:20:55 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 20:20:55 - ERROR - while finding user by username: tamar | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 20:20:55 - ERROR - Failed to signup TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 20:21:34 - DEBUG - GOT: |  
+28.3.2023, 20:21:34 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 20:21:34 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 20:21:34 - ERROR - while finding board b101 | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 20:21:34 - ERROR - Failed to get board | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 20:21:34 - DEBUG - GOT: |  
+28.3.2023, 20:21:34 - DEBUG - Getting Boards 
+28.3.2023, 20:21:34 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 20:21:34 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 20:21:34 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 20:21:34 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 20:25:52 - DEBUG - GOT: |  
+28.3.2023, 20:25:52 - DEBUG - Getting Boards 
+28.3.2023, 20:25:52 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 20:25:52 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 20:25:52 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 20:25:52 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 22:21:02 - DEBUG - GOT: |  
+28.3.2023, 22:21:02 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 22:21:02 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 22:21:02 - ERROR - while finding board b101 | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 22:21:02 - ERROR - Failed to get board | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 22:21:02 - DEBUG - GOT: |  
+28.3.2023, 22:21:02 - DEBUG - Getting Boards 
+28.3.2023, 22:21:02 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 22:21:02 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 22:21:02 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 22:21:02 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 22:21:31 - INFO - Server is running on port: 3030 
+28.3.2023, 22:21:39 - DEBUG - GOT: |  
+28.3.2023, 22:21:39 - DEBUG - Getting Boards 
+28.3.2023, 22:21:39 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 22:21:39 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 22:21:39 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 22:21:39 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 22:21:40 - DEBUG - GOT: |  
+28.3.2023, 22:21:40 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 22:21:40 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 22:21:40 - ERROR - while finding board b101 | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 22:21:40 - ERROR - Failed to get board | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 22:22:00 - DEBUG - GOT: |  
+28.3.2023, 22:22:00 - DEBUG - Getting Boards 
+28.3.2023, 22:22:00 - ERROR - Cannot Connect to DB | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 22:22:00 - ERROR - Failed to get Mongo collection | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 22:22:00 - ERROR - cannot find boards | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 22:22:00 - ERROR - Failed to get boards | TypeError: Cannot read properties of undefined (reading 'startsWith') 
+28.3.2023, 22:26:25 - INFO - Server is running on port: 3030 
