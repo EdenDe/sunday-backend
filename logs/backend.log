@@ -293,3 +293,27 @@
 1.4.2023, 21:29:18 - INFO - New connected socket [id: Sgfch-zzqU2Bjq4qAAAB] 
 1.4.2023, 21:29:19 - INFO - Server is running on port: 3030 
 1.4.2023, 21:29:21 - INFO - New connected socket [id: Ihedxn9dFNtgr_faAAAB] 
+1.4.2023, 21:36:49 - INFO - Server is running on port: 3030 
+1.4.2023, 21:36:50 - INFO - New connected socket [id: ybdPoBI_eulo_uzVAAAB] 
+1.4.2023, 21:37:15 - INFO - Server is running on port: 3030 
+1.4.2023, 21:37:16 - INFO - New connected socket [id: J_O3LA4i2jOnnxqpAAAB] 
+1.4.2023, 21:37:17 - INFO - Server is running on port: 3030 
+1.4.2023, 21:37:19 - INFO - New connected socket [id: n6a8uq0xuZYOM7rZAAAB] 
+1.4.2023, 21:37:24 - INFO - Socket disconnected [id: undefined] 
+1.4.2023, 21:38:14 - DEBUG - GOT: | 540c262b02d384bd1f8f0ca24667ebfe0544c23991a0e149267a2ecd776ad26d1b14a2caaefcd8864d8bc46b0d1a29eb425e67b62ad4872d21963924c8a768c70811096edd7977cfa925e9ac2fd7486c0d7451caca1a17c27b826ca86d143c57b180c4d1c18419becb6e4c23103e75a102746ec86c7cbf8ad76977c90d0d181bcd827b767552942903810fb3aa11e74bee745def 
+1.4.2023, 21:38:14 - DEBUG - Getting Boards (userId: 6422e294e6f5b31b74228327)
+1.4.2023, 21:38:14 - DEBUG - GOT: | 540c262b02d384bd1f8f0ca24667ebfe0544c23991a0e149267a2ecd776ad26d1b14a2caaefcd8864d8bc46b0d1a29eb425e67b62ad4872d21963924c8a768c70811096edd7977cfa925e9ac2fd7486c0d7451caca1a17c27b826ca86d143c57b180c4d1c18419becb6e4c23103e75a102746ec86c7cbf8ad76977c90d0d181bcd827b767552942903810fb3aa11e74bee745def 
+1.4.2023, 21:38:14 - INFO - New connected socket [id: ar5dtsAcDpmXSribAAAD] 
+1.4.2023, 21:38:15 - INFO - Setting socket.userId = cixtWA for socket [id: ar5dtsAcDpmXSribAAAD] 
+1.4.2023, 21:44:53 - INFO - Server is running on port: 3030 
+1.4.2023, 21:44:55 - INFO - Server is running on port: 3030 
+1.4.2023, 21:44:58 - INFO - New connected socket [id: _X9vQ2rGq_mtXyKhAAAB] 
+1.4.2023, 21:47:40 - INFO - Socket disconnected [id: undefined] 
+1.4.2023, 21:48:35 - DEBUG - GOT: | 540c262b02d384bd1f8f0ca24667ebfe0544c23991a0e149267a2ecd776ad26d1b14a2caaefcd8864d8bc46b0d1a29eb425e67b62ad4872d21963924c8a768c70811096edd7977cfa925e9ac2fd7486c0d7451caca1a17c27b826ca86d143c57b180c4d1c18419becb6e4c23103e75a102746ec86c7cbf8ad76977c90d0d181bcd827b767552942903810fb3aa11e74bee745def 
+1.4.2023, 21:48:35 - DEBUG - Getting Boards (userId: 6422e294e6f5b31b74228327)
+1.4.2023, 21:48:35 - DEBUG - GOT: | 540c262b02d384bd1f8f0ca24667ebfe0544c23991a0e149267a2ecd776ad26d1b14a2caaefcd8864d8bc46b0d1a29eb425e67b62ad4872d21963924c8a768c70811096edd7977cfa925e9ac2fd7486c0d7451caca1a17c27b826ca86d143c57b180c4d1c18419becb6e4c23103e75a102746ec86c7cbf8ad76977c90d0d181bcd827b767552942903810fb3aa11e74bee745def 
+1.4.2023, 21:48:36 - INFO - New connected socket [id: vnSF-BPzYE9LoCXLAAAD] 
+1.4.2023, 21:48:36 - INFO - Setting socket.userId = cixtWA for socket [id: vnSF-BPzYE9LoCXLAAAD] 
+1.4.2023, 21:51:18 - INFO - Server is running on port: 3030 
+1.4.2023, 21:51:20 - INFO - Server is running on port: 3030 
+1.4.2023, 21:51:21 - INFO - New connected socket [id: jco9hCdmSagJz1rnAAAB] 
