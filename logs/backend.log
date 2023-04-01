@@ -281,3 +281,15 @@
 1.4.2023, 21:09:19 - DEBUG - GOT: | 540c262b02d384bd1f8f0ca24667ebfe0544c23991a0e149267a2ecd776ad26d1b14a2caaefcd8864d8bc46b0d1a29eb425e67b62ad4872d21963924c8a768c70811096edd7977cfa925e9ac2fd7486c0d7451caca1a17c27b826ca86d143c57b180c4d1c18419becb6e4c23103e75a102746ec86c7cbf8ad76977c90d0d181bcd827b767552942903810fb3aa11e74bee745def 
 1.4.2023, 21:09:20 - INFO - New connected socket [id: nqyKNk6tmXX6YcYFAAAL] 
 1.4.2023, 21:09:20 - INFO - Setting socket.userId = cixtWA for socket [id: nqyKNk6tmXX6YcYFAAAL] 
+1.4.2023, 21:22:11 - INFO - Server is running on port: 3030 
+1.4.2023, 21:22:13 - INFO - New connected socket [id: 6cul9H_W82CftbIgAAAB] 
+1.4.2023, 21:22:19 - INFO - Socket disconnected [id: undefined] 
+1.4.2023, 21:22:59 - DEBUG - GOT: | 540c262b02d384bd1f8f0ca24667ebfe0544c23991a0e149267a2ecd776ad26d1b14a2caaefcd8864d8bc46b0d1a29eb425e67b62ad4872d21963924c8a768c70811096edd7977cfa925e9ac2fd7486c0d7451caca1a17c27b826ca86d143c57b180c4d1c18419becb6e4c23103e75a102746ec86c7cbf8ad76977c90d0d181bcd827b767552942903810fb3aa11e74bee745def 
+1.4.2023, 21:22:59 - DEBUG - Getting Boards (userId: 6422e294e6f5b31b74228327)
+1.4.2023, 21:22:59 - DEBUG - GOT: | 540c262b02d384bd1f8f0ca24667ebfe0544c23991a0e149267a2ecd776ad26d1b14a2caaefcd8864d8bc46b0d1a29eb425e67b62ad4872d21963924c8a768c70811096edd7977cfa925e9ac2fd7486c0d7451caca1a17c27b826ca86d143c57b180c4d1c18419becb6e4c23103e75a102746ec86c7cbf8ad76977c90d0d181bcd827b767552942903810fb3aa11e74bee745def 
+1.4.2023, 21:23:00 - INFO - New connected socket [id: RZf_Hu4zKPJqynqIAAAD] 
+1.4.2023, 21:23:00 - INFO - Setting socket.userId = cixtWA for socket [id: RZf_Hu4zKPJqynqIAAAD] 
+1.4.2023, 21:29:16 - INFO - Server is running on port: 3030 
+1.4.2023, 21:29:18 - INFO - New connected socket [id: Sgfch-zzqU2Bjq4qAAAB] 
+1.4.2023, 21:29:19 - INFO - Server is running on port: 3030 
+1.4.2023, 21:29:21 - INFO - New connected socket [id: Ihedxn9dFNtgr_faAAAB] 
