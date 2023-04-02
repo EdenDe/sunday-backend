@@ -485,3 +485,10 @@
 2.4.2023, 11:42:14 - INFO - Setting socket.userId = FsozMY for socket [id: vSozyz2nbNI4vRhDAAAF] 
 2.4.2023, 11:44:47 - INFO - Server is running on port: 3030 
 2.4.2023, 11:44:47 - INFO - New connected socket [id: ZFcnhhYXQfi4A01yAAAB] 
+2.4.2023, 11:58:53 - INFO - Server is running on port: 3030 
+2.4.2023, 11:59:13 - DEBUG - GOT: | 540c262b02d384bd1f8f0ca24667ebfe0544c23991a0e149267a2ecd776ad26d1b14a2caaefcd8864d8bc46b0d1a29eb425e67b62ad4872d21963924c8a768c70811096edd7977cfa925e9ac2fd7486c0d7451caca1a17c27b826ca86d143c57b180c4d1c18419becb6e4c23103e75a102746ec86c7cbf8ad76977c90d0d181bcd827b767552942903810fb3aa11e74bee745def 
+2.4.2023, 11:59:13 - DEBUG - Getting Boards (userId: 6422e294e6f5b31b74228327)
+2.4.2023, 11:59:13 - INFO - New connected socket [id: xE3_EkmOK5Jzdmy2AAAB] 
+2.4.2023, 11:59:13 - DEBUG - GOT: | 540c262b02d384bd1f8f0ca24667ebfe0544c23991a0e149267a2ecd776ad26d1b14a2caaefcd8864d8bc46b0d1a29eb425e67b62ad4872d21963924c8a768c70811096edd7977cfa925e9ac2fd7486c0d7451caca1a17c27b826ca86d143c57b180c4d1c18419becb6e4c23103e75a102746ec86c7cbf8ad76977c90d0d181bcd827b767552942903810fb3aa11e74bee745def 
+2.4.2023, 11:59:13 - INFO - Setting socket.userId = QwGoin for socket [id: xE3_EkmOK5Jzdmy2AAAB] 
+2.4.2023, 11:59:13 - INFO - Setting socket.userId = QwGoin for socket [id: xE3_EkmOK5Jzdmy2AAAB] 
