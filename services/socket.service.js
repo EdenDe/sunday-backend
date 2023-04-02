@@ -1,4 +1,4 @@
-const boardService = require('../api/board/board.service')
+const asyncLocalStorage = require('../services/als.service')
 const logger = require('./logger.service')
 var gIo = null
 
@@ -19,14 +19,14 @@ function setupSocketAPI(http) {
                 socket.leave(socket.myTopic)
                 logger.info(`Socket is leaving topic ${socket.myTopic} [id: ${socket.id}]`)
             }
+            logger.info('topic', topic)
             socket.join(topic)
             socket.myTopic = topic
+            logger.info(`Socket is joining topic ${socket.myTopic} [id: ${socket.id}]`)
         })
         socket.on('board-get-update', board => {
             logger.info(`New board update from socket [id: ${socket.id}], with the updates ${updates}`)
-            // emits to all sockets:
-            // gIo.emit('board-set-update', updates)
-            // emits only to sockets in the same room
+            logger.info(`Socket is sending board update [id: ${socket.id}] with the updates ${updates}`)
             gIo.to(socket.myTopic).emit('chat-add-msg', board)
         })
         socket.on('user-watch', userId => {
@@ -68,7 +68,6 @@ async function emitToUser({ type, data, userId }) {
 // Optionally, broadcast to a room / to all
 async function broadcast({ type, data, room = null, userId }) {
     userId = userId.toString()
-
     logger.info(`Broadcasting event: ${type}`)
     const excludedSocket = await _getUserSocket(userId)
     if (room && excludedSocket) {

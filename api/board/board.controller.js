@@ -32,7 +32,6 @@ async function addBoard(req, res) {
 
 	try {
 		const board = req.body
-		board.owner = loggedinUser
 		const addedBoard = await boardService.add(board)
 		res.json(addedBoard)
 	} catch (err) {
@@ -43,6 +42,7 @@ async function addBoard(req, res) {
 
 async function updateBoard(req, res) {
 	const { loggedinUser } = req
+	console.log('from board controller', loggedinUser);
 	try {
 		const board = req.body
 		const updatedBoard = await boardService.update(board)
