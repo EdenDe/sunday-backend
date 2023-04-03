@@ -1117,3 +1117,15 @@
 2.4.2023, 18:15:43 - INFO - New connected socket [id: zPCURPqH3xJIATJtAAAC] 
 2.4.2023, 18:15:43 - INFO - New connected socket [id: eFgpL7aKketEeMISAAAD] 
 2.4.2023, 18:15:43 - INFO - New connected socket [id: 3PQBjPLME0OQEg4YAAAF] 
+3.4.2023, 11:27:36 - INFO - Server is running on port: 3030 
+3.4.2023, 11:32:54 - DEBUG - GOT: | 540c262b02d384bd1f8f0ca24667ebfe0544c23991a0e149267a2ecd776ad26d1b14a2caaefcd8864d8bc46b0d1a29eb425e67b62ad4872d21963924c8a768c70811096edd7977cfa925e9ac2fd7486c0d7451caca1a17c27b826ca86d143c57b180c4d1c18419becb6e4c23103e75a102746ec86c7cbf8ad76977c90d0d181bcd827b767552942903810fb3aa11e74bee745def 
+3.4.2023, 11:32:54 - DEBUG - Getting Boards (userId: 6422e294e6f5b31b74228327)
+3.4.2023, 11:32:54 - DEBUG - GOT: | 540c262b02d384bd1f8f0ca24667ebfe0544c23991a0e149267a2ecd776ad26d1b14a2caaefcd8864d8bc46b0d1a29eb425e67b62ad4872d21963924c8a768c70811096edd7977cfa925e9ac2fd7486c0d7451caca1a17c27b826ca86d143c57b180c4d1c18419becb6e4c23103e75a102746ec86c7cbf8ad76977c90d0d181bcd827b767552942903810fb3aa11e74bee745def 
+3.4.2023, 11:32:54 - INFO - New connected socket [id: AYS7xIFoX0-xVGMFAAAB] 
+3.4.2023, 11:32:54 - INFO - Setting socket.userId = 1234 for socket [id: AYS7xIFoX0-xVGMFAAAB] 
+3.4.2023, 11:32:55 - INFO - Setting socket.userId = 1234 for socket [id: AYS7xIFoX0-xVGMFAAAB] 
+3.4.2023, 11:33:47 - INFO - topic | 6422de01e6f5b31b74228324 
+3.4.2023, 11:33:47 - INFO - Socket is joining topic 6422de01e6f5b31b74228324 [id: AYS7xIFoX0-xVGMFAAAB] 
+3.4.2023, 11:45:00 - INFO - Server is running on port: 3030 
+3.4.2023, 11:45:01 - INFO - Server is running on port: 3030 
+3.4.2023, 11:45:01 - INFO - New connected socket [id: bffsY52y8PGIvtmsAAAB] 
