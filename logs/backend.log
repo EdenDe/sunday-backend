@@ -1177,3 +1177,1525 @@
 3.4.2023, 17:06:30 - INFO - Socket is joining topic 6422de01e6f5b31b74228324 [id: RDSP1U-_paZ0ou0JAAAF] 
 3.4.2023, 17:15:07 - INFO - Server is running on port: 3030 
 3.4.2023, 17:15:08 - INFO - New connected socket [id: C_7GajfxhC2gDFIyAAAB] 
+3.4.2023, 18:28:21 - INFO - Server is running on port: 3030 
+3.4.2023, 18:30:17 - DEBUG - Getting Boards (userId: 6422e294e6f5b31b74228327)
+3.4.2023, 18:30:17 - DEBUG - GOT: | 540c262b02d384bd1f8f0ca24667ebfe0544c23991a0e149267a2ecd776ad26d1b14a2caaefcd8864d8bc46b0d1a29eb425e67b62ad4872d21963924c8a768c70811096edd7977cfa925e9ac2fd7486c0d7451caca1a17c27b826ca86d143c57b180c4d1c18419becb6e4c23103e75a102746ec86c7cbf8ad76977c90d0d181bcd827b767552942903810fb3aa11e74bee745def 
+3.4.2023, 18:30:17 - DEBUG - GOT: | 540c262b02d384bd1f8f0ca24667ebfe0544c23991a0e149267a2ecd776ad26d1b14a2caaefcd8864d8bc46b0d1a29eb425e67b62ad4872d21963924c8a768c70811096edd7977cfa925e9ac2fd7486c0d7451caca1a17c27b826ca86d143c57b180c4d1c18419becb6e4c23103e75a102746ec86c7cbf8ad76977c90d0d181bcd827b767552942903810fb3aa11e74bee745def 
+3.4.2023, 18:30:17 - INFO - New connected socket [id: 6mlgUMfAmngzSTQNAAAB] 
+3.4.2023, 18:30:17 - INFO - Setting socket.userId = 1234 for socket [id: 6mlgUMfAmngzSTQNAAAB] 
+3.4.2023, 18:30:17 - INFO - Setting socket.userId = 1234 for socket [id: 6mlgUMfAmngzSTQNAAAB] 
+3.4.2023, 18:30:21 - INFO - topic | 6422de01e6f5b31b74228324 
+3.4.2023, 18:30:21 - INFO - Socket is joining topic 6422de01e6f5b31b74228324 [id: 6mlgUMfAmngzSTQNAAAB] 
+3.4.2023, 18:31:27 - INFO - Socket disconnected [id: undefined] 
+3.4.2023, 18:31:44 - DEBUG - GOT: | 540c262b02d384bd1f8f0ca24667ebfe0544c23991a0e149267a2ecd776ad26d1b14a2caaefcd8864d8bc46b0d1a29eb425e67b62ad4872d21963924c8a768c70811096edd7977cfa925e9ac2fd7486c0d7451caca1a17c27b826ca86d143c57b180c4d1c18419becb6e4c23103e75a102746ec86c7cbf8ad76977c90d0d181bcd827b767552942903810fb3aa11e74bee745def 
+3.4.2023, 18:31:44 - DEBUG - Getting Boards (userId: 6422e294e6f5b31b74228327)
+3.4.2023, 18:31:44 - DEBUG - GOT: | 540c262b02d384bd1f8f0ca24667ebfe0544c23991a0e149267a2ecd776ad26d1b14a2caaefcd8864d8bc46b0d1a29eb425e67b62ad4872d21963924c8a768c70811096edd7977cfa925e9ac2fd7486c0d7451caca1a17c27b826ca86d143c57b180c4d1c18419becb6e4c23103e75a102746ec86c7cbf8ad76977c90d0d181bcd827b767552942903810fb3aa11e74bee745def 
+3.4.2023, 18:31:44 - INFO - New connected socket [id: QFMww50koJ6OtMaBAAAD] 
+3.4.2023, 18:31:45 - INFO - Setting socket.userId = 1234 for socket [id: QFMww50koJ6OtMaBAAAD] 
+3.4.2023, 18:31:45 - INFO - topic | 6422de01e6f5b31b74228324 
+3.4.2023, 18:31:45 - INFO - Socket is joining topic 6422de01e6f5b31b74228324 [id: QFMww50koJ6OtMaBAAAD] 
+3.4.2023, 18:31:48 - DEBUG - GOT: | 540c262b02d384bd1f8f0ca24667ebfe0544c23991a0e149267a2ecd776ad26d1b14a2caaefcd8864d8bc46b0d1a29eb425e67b62ad4872d21963924c8a768c70811096edd7977cfa925e9ac2fd7486c0d7451caca1a17c27b826ca86d143c57b180c4d1c18419becb6e4c23103e75a102746ec86c7cbf8ad76977c90d0d181bcd827b767552942903810fb3aa11e74bee745def 
+3.4.2023, 18:31:48 - INFO - Emit to room: 6422de01e6f5b31b74228324 (userId: 6422e294e6f5b31b74228327)
+3.4.2023, 18:31:48 - INFO - Broadcasting event: board-get-update (userId: 6422e294e6f5b31b74228327)
+3.4.2023, 18:31:55 - INFO - Socket disconnected [id: undefined] 
+3.4.2023, 18:31:56 - DEBUG - GOT: | 540c262b02d384bd1f8f0ca24667ebfe0544c23991a0e149267a2ecd776ad26d1b14a2caaefcd8864d8bc46b0d1a29eb425e67b62ad4872d21963924c8a768c70811096edd7977cfa925e9ac2fd7486c0d7451caca1a17c27b826ca86d143c57b180c4d1c18419becb6e4c23103e75a102746ec86c7cbf8ad76977c90d0d181bcd827b767552942903810fb3aa11e74bee745def 
+3.4.2023, 18:31:56 - DEBUG - Getting Boards (userId: 6422e294e6f5b31b74228327)
+3.4.2023, 18:31:56 - DEBUG - GOT: | 540c262b02d384bd1f8f0ca24667ebfe0544c23991a0e149267a2ecd776ad26d1b14a2caaefcd8864d8bc46b0d1a29eb425e67b62ad4872d21963924c8a768c70811096edd7977cfa925e9ac2fd7486c0d7451caca1a17c27b826ca86d143c57b180c4d1c18419becb6e4c23103e75a102746ec86c7cbf8ad76977c90d0d181bcd827b767552942903810fb3aa11e74bee745def 
+3.4.2023, 18:31:56 - INFO - New connected socket [id: Wbjx0Y1kScKCJcYGAAAF] 
+3.4.2023, 18:31:56 - INFO - topic | 6422de01e6f5b31b74228324 
+3.4.2023, 18:31:56 - INFO - Socket is joining topic 6422de01e6f5b31b74228324 [id: Wbjx0Y1kScKCJcYGAAAF] 
+3.4.2023, 18:31:57 - INFO - Setting socket.userId = 1234 for socket [id: Wbjx0Y1kScKCJcYGAAAF] 
+3.4.2023, 18:31:59 - DEBUG - GOT: | 540c262b02d384bd1f8f0ca24667ebfe0544c23991a0e149267a2ecd776ad26d1b14a2caaefcd8864d8bc46b0d1a29eb425e67b62ad4872d21963924c8a768c70811096edd7977cfa925e9ac2fd7486c0d7451caca1a17c27b826ca86d143c57b180c4d1c18419becb6e4c23103e75a102746ec86c7cbf8ad76977c90d0d181bcd827b767552942903810fb3aa11e74bee745def 
+3.4.2023, 18:31:59 - INFO - Broadcasting event: board-get-update (userId: 6422e294e6f5b31b74228327)
+3.4.2023, 18:31:59 - INFO - Emit to room: 6422de01e6f5b31b74228324 (userId: 6422e294e6f5b31b74228327)
+3.4.2023, 18:33:19 - INFO - Socket disconnected [id: undefined] 
+24.4.2023, 11:51:19 - INFO - Server is running on port: 3030 
+24.4.2023, 11:54:14 - DEBUG - GOT: |  
+24.4.2023, 11:54:14 - DEBUG - Getting Boards 
+24.4.2023, 11:54:14 - DEBUG - GOT: |  
+24.4.2023, 11:54:14 - INFO - New connected socket [id: BGARlS0GsMBvI9D_AAAB] 
+24.4.2023, 11:54:14 - INFO - Setting socket.userId = 1234 for socket [id: BGARlS0GsMBvI9D_AAAB] 
+24.4.2023, 11:54:14 - INFO - Setting socket.userId = 1234 for socket [id: BGARlS0GsMBvI9D_AAAB] 
+24.4.2023, 11:54:46 - INFO - topic | 6422de01e6f5b31b74228324 
+24.4.2023, 11:54:46 - INFO - Socket is joining topic 6422de01e6f5b31b74228324 [id: BGARlS0GsMBvI9D_AAAB] 
+24.4.2023, 11:54:50 - DEBUG - GOT: |  
+24.4.2023, 11:54:50 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 11:54:50 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 11:54:50 - DEBUG - GOT: |  
+24.4.2023, 11:54:50 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 11:54:50 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 11:54:51 - DEBUG - GOT: |  
+24.4.2023, 11:54:51 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 11:54:51 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 11:54:52 - DEBUG - GOT: |  
+24.4.2023, 11:54:52 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 11:54:52 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 11:54:57 - DEBUG - GOT: |  
+24.4.2023, 11:54:57 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 11:54:57 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 11:54:59 - DEBUG - GOT: |  
+24.4.2023, 11:54:59 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 11:54:59 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:08:12 - DEBUG - GOT: |  
+24.4.2023, 12:08:12 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:08:12 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:08:18 - DEBUG - GOT: |  
+24.4.2023, 12:08:18 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:08:18 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:08:19 - INFO - Socket disconnected [id: undefined] 
+24.4.2023, 12:08:20 - DEBUG - GOT: |  
+24.4.2023, 12:08:20 - DEBUG - Getting Boards 
+24.4.2023, 12:08:20 - DEBUG - GOT: |  
+24.4.2023, 12:08:20 - INFO - New connected socket [id: 69tMEcN7VgVxNRwTAAAD] 
+24.4.2023, 12:08:20 - INFO - Setting socket.userId = 1234 for socket [id: 69tMEcN7VgVxNRwTAAAD] 
+24.4.2023, 12:08:20 - INFO - topic | 6422de01e6f5b31b74228324 
+24.4.2023, 12:08:20 - INFO - Socket is joining topic 6422de01e6f5b31b74228324 [id: 69tMEcN7VgVxNRwTAAAD] 
+24.4.2023, 12:08:49 - DEBUG - GOT: |  
+24.4.2023, 12:08:49 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:08:49 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:08:51 - DEBUG - GOT: |  
+24.4.2023, 12:08:51 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:08:51 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:19:12 - INFO - Socket disconnected [id: undefined] 
+24.4.2023, 12:19:12 - DEBUG - GOT: |  
+24.4.2023, 12:19:12 - DEBUG - Getting Boards 
+24.4.2023, 12:19:12 - DEBUG - GOT: |  
+24.4.2023, 12:19:13 - INFO - New connected socket [id: ceYpdY6IIRZExGybAAAF] 
+24.4.2023, 12:19:13 - INFO - Setting socket.userId = 1234 for socket [id: ceYpdY6IIRZExGybAAAF] 
+24.4.2023, 12:19:13 - INFO - topic | 6422de01e6f5b31b74228324 
+24.4.2023, 12:19:13 - INFO - Socket is joining topic 6422de01e6f5b31b74228324 [id: ceYpdY6IIRZExGybAAAF] 
+24.4.2023, 12:19:40 - INFO - Socket disconnected [id: undefined] 
+24.4.2023, 12:19:41 - DEBUG - GOT: |  
+24.4.2023, 12:19:41 - DEBUG - Getting Boards 
+24.4.2023, 12:19:41 - DEBUG - GOT: |  
+24.4.2023, 12:19:41 - INFO - New connected socket [id: RkB2IQ3xytNJo5lzAAAH] 
+24.4.2023, 12:19:41 - INFO - Setting socket.userId = 1234 for socket [id: RkB2IQ3xytNJo5lzAAAH] 
+24.4.2023, 12:19:41 - INFO - topic | 6422de01e6f5b31b74228324 
+24.4.2023, 12:19:41 - INFO - Socket is joining topic 6422de01e6f5b31b74228324 [id: RkB2IQ3xytNJo5lzAAAH] 
+24.4.2023, 12:27:22 - INFO - Socket disconnected [id: undefined] 
+24.4.2023, 12:27:22 - DEBUG - GOT: |  
+24.4.2023, 12:27:22 - DEBUG - Getting Boards 
+24.4.2023, 12:27:22 - DEBUG - GOT: |  
+24.4.2023, 12:27:22 - INFO - New connected socket [id: HSY5W7QjaKhPu6n2AAAJ] 
+24.4.2023, 12:27:23 - INFO - topic | 6422de01e6f5b31b74228324 
+24.4.2023, 12:27:23 - INFO - Socket is joining topic 6422de01e6f5b31b74228324 [id: HSY5W7QjaKhPu6n2AAAJ] 
+24.4.2023, 12:27:23 - INFO - Setting socket.userId = 1234 for socket [id: HSY5W7QjaKhPu6n2AAAJ] 
+24.4.2023, 12:27:41 - INFO - Socket disconnected [id: undefined] 
+24.4.2023, 12:27:42 - DEBUG - GOT: |  
+24.4.2023, 12:27:42 - DEBUG - Getting Boards 
+24.4.2023, 12:27:42 - DEBUG - GOT: |  
+24.4.2023, 12:27:42 - INFO - New connected socket [id: AwgLxZuAyJhsfL9JAAAL] 
+24.4.2023, 12:27:42 - INFO - Setting socket.userId = 1234 for socket [id: AwgLxZuAyJhsfL9JAAAL] 
+24.4.2023, 12:27:42 - INFO - topic | 6422de01e6f5b31b74228324 
+24.4.2023, 12:27:42 - INFO - Socket is joining topic 6422de01e6f5b31b74228324 [id: AwgLxZuAyJhsfL9JAAAL] 
+24.4.2023, 12:28:38 - INFO - Socket disconnected [id: undefined] 
+24.4.2023, 12:28:39 - DEBUG - GOT: |  
+24.4.2023, 12:28:39 - DEBUG - Getting Boards 
+24.4.2023, 12:28:39 - DEBUG - GOT: |  
+24.4.2023, 12:28:39 - INFO - New connected socket [id: 1wXoo0J0kLjwKNXNAAAN] 
+24.4.2023, 12:28:39 - INFO - topic | 6422de01e6f5b31b74228324 
+24.4.2023, 12:28:39 - INFO - Socket is joining topic 6422de01e6f5b31b74228324 [id: 1wXoo0J0kLjwKNXNAAAN] 
+24.4.2023, 12:28:40 - INFO - Setting socket.userId = 1234 for socket [id: 1wXoo0J0kLjwKNXNAAAN] 
+24.4.2023, 12:29:17 - INFO - Socket disconnected [id: undefined] 
+24.4.2023, 12:29:18 - DEBUG - GOT: |  
+24.4.2023, 12:29:18 - DEBUG - Getting Boards 
+24.4.2023, 12:29:18 - DEBUG - GOT: |  
+24.4.2023, 12:29:18 - INFO - New connected socket [id: wbTFNUqjNbUrIJOiAAAP] 
+24.4.2023, 12:29:18 - INFO - Setting socket.userId = 1234 for socket [id: wbTFNUqjNbUrIJOiAAAP] 
+24.4.2023, 12:29:18 - INFO - topic | 6422de01e6f5b31b74228324 
+24.4.2023, 12:29:18 - INFO - Socket is joining topic 6422de01e6f5b31b74228324 [id: wbTFNUqjNbUrIJOiAAAP] 
+24.4.2023, 12:30:06 - DEBUG - GOT: |  
+24.4.2023, 12:30:06 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:30:06 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:30:08 - DEBUG - GOT: |  
+24.4.2023, 12:30:08 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:30:08 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:31:45 - DEBUG - GOT: |  
+24.4.2023, 12:31:45 - DEBUG - GOT: |  
+24.4.2023, 12:31:45 - DEBUG - GOT: |  
+24.4.2023, 12:31:45 - DEBUG - GOT: |  
+24.4.2023, 12:31:45 - DEBUG - GOT: |  
+24.4.2023, 12:31:45 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:31:45 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:31:45 - DEBUG - GOT: |  
+24.4.2023, 12:31:45 - DEBUG - GOT: |  
+24.4.2023, 12:31:45 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:31:45 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:31:45 - DEBUG - GOT: |  
+24.4.2023, 12:31:46 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:31:46 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:31:46 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:31:46 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:31:46 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:31:46 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:31:46 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:31:46 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:31:47 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:31:47 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:31:47 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:31:47 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:31:47 - DEBUG - GOT: |  
+24.4.2023, 12:31:47 - DEBUG - GOT: |  
+24.4.2023, 12:31:47 - DEBUG - GOT: |  
+24.4.2023, 12:31:47 - DEBUG - GOT: |  
+24.4.2023, 12:31:47 - DEBUG - GOT: |  
+24.4.2023, 12:31:47 - DEBUG - GOT: |  
+24.4.2023, 12:31:48 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:31:48 - DEBUG - GOT: |  
+24.4.2023, 12:31:48 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:31:48 - DEBUG - GOT: |  
+24.4.2023, 12:31:48 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:31:48 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:31:48 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:31:48 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:31:48 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:31:48 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:31:48 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:31:48 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:31:48 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:31:48 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:31:49 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:31:49 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:31:49 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:31:49 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:31:49 - DEBUG - GOT: |  
+24.4.2023, 12:31:49 - DEBUG - GOT: |  
+24.4.2023, 12:31:49 - DEBUG - GOT: |  
+24.4.2023, 12:31:49 - DEBUG - GOT: |  
+24.4.2023, 12:31:49 - DEBUG - GOT: |  
+24.4.2023, 12:31:49 - DEBUG - GOT: |  
+24.4.2023, 12:31:49 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:31:49 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:31:49 - DEBUG - GOT: |  
+24.4.2023, 12:31:49 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:31:49 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:31:49 - DEBUG - GOT: |  
+24.4.2023, 12:31:49 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:31:49 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:31:49 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:31:49 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:31:49 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:31:49 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:31:49 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:31:49 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:31:49 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:31:49 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:31:49 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:31:49 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:31:50 - DEBUG - GOT: |  
+24.4.2023, 12:31:50 - DEBUG - GOT: |  
+24.4.2023, 12:31:50 - DEBUG - GOT: |  
+24.4.2023, 12:31:50 - DEBUG - GOT: |  
+24.4.2023, 12:31:50 - DEBUG - GOT: |  
+24.4.2023, 12:31:50 - DEBUG - GOT: |  
+24.4.2023, 12:31:50 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:31:50 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:31:50 - DEBUG - GOT: |  
+24.4.2023, 12:31:50 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:31:50 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:31:50 - DEBUG - GOT: |  
+24.4.2023, 12:31:50 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:31:50 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:31:51 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:31:51 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:31:51 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:31:51 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:31:51 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:31:51 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:31:51 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:31:51 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:31:51 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:31:51 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:31:58 - DEBUG - GOT: |  
+24.4.2023, 12:31:58 - DEBUG - GOT: |  
+24.4.2023, 12:31:58 - DEBUG - GOT: |  
+24.4.2023, 12:31:58 - DEBUG - GOT: |  
+24.4.2023, 12:31:58 - DEBUG - GOT: |  
+24.4.2023, 12:31:59 - DEBUG - GOT: |  
+24.4.2023, 12:31:59 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:31:59 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:31:59 - DEBUG - GOT: |  
+24.4.2023, 12:31:59 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:31:59 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:31:59 - DEBUG - GOT: |  
+24.4.2023, 12:31:59 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:31:59 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:31:59 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:31:59 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:31:59 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:31:59 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:31:59 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:31:59 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:31:59 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:31:59 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:31:59 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:31:59 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:32:00 - DEBUG - GOT: |  
+24.4.2023, 12:32:00 - DEBUG - GOT: |  
+24.4.2023, 12:32:00 - DEBUG - GOT: |  
+24.4.2023, 12:32:00 - DEBUG - GOT: |  
+24.4.2023, 12:32:00 - DEBUG - GOT: |  
+24.4.2023, 12:32:00 - DEBUG - GOT: |  
+24.4.2023, 12:32:00 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:32:00 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:32:00 - DEBUG - GOT: |  
+24.4.2023, 12:32:00 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:32:00 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:32:00 - DEBUG - GOT: |  
+24.4.2023, 12:32:00 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:32:00 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:32:00 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:32:00 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:32:00 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:32:00 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:32:00 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:32:00 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:32:00 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:32:00 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:32:00 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:32:00 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:32:01 - DEBUG - GOT: |  
+24.4.2023, 12:32:01 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:32:01 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:32:02 - DEBUG - GOT: |  
+24.4.2023, 12:32:02 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:32:02 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:32:03 - DEBUG - GOT: |  
+24.4.2023, 12:32:03 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:32:03 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:32:03 - DEBUG - GOT: |  
+24.4.2023, 12:32:03 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:32:03 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:32:04 - DEBUG - GOT: |  
+24.4.2023, 12:32:04 - DEBUG - GOT: |  
+24.4.2023, 12:32:04 - DEBUG - GOT: |  
+24.4.2023, 12:32:04 - DEBUG - GOT: |  
+24.4.2023, 12:32:04 - DEBUG - GOT: |  
+24.4.2023, 12:32:04 - DEBUG - GOT: |  
+24.4.2023, 12:32:04 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:32:04 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:32:04 - DEBUG - GOT: |  
+24.4.2023, 12:32:04 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:32:04 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:32:04 - DEBUG - GOT: |  
+24.4.2023, 12:32:04 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:32:04 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:32:04 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:32:04 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:32:04 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:32:04 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:32:04 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:32:04 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:32:04 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:32:04 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:32:04 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:32:04 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:32:05 - DEBUG - GOT: |  
+24.4.2023, 12:32:05 - DEBUG - GOT: |  
+24.4.2023, 12:32:05 - DEBUG - GOT: |  
+24.4.2023, 12:32:05 - DEBUG - GOT: |  
+24.4.2023, 12:32:05 - DEBUG - GOT: |  
+24.4.2023, 12:32:05 - DEBUG - GOT: |  
+24.4.2023, 12:32:05 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:32:05 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:32:05 - DEBUG - GOT: |  
+24.4.2023, 12:32:05 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:32:05 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:32:05 - DEBUG - GOT: |  
+24.4.2023, 12:32:05 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:32:05 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:32:05 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:32:05 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:32:05 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:32:05 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:32:05 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:32:05 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:32:05 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:32:05 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:32:05 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:32:05 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:32:37 - DEBUG - GOT: |  
+24.4.2023, 12:32:37 - DEBUG - GOT: |  
+24.4.2023, 12:32:37 - DEBUG - GOT: |  
+24.4.2023, 12:32:37 - DEBUG - GOT: |  
+24.4.2023, 12:32:37 - DEBUG - GOT: |  
+24.4.2023, 12:32:37 - DEBUG - GOT: |  
+24.4.2023, 12:32:37 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:32:37 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:32:37 - DEBUG - GOT: |  
+24.4.2023, 12:32:37 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:32:37 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:32:37 - DEBUG - GOT: |  
+24.4.2023, 12:32:37 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:32:37 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:32:37 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:32:37 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:32:37 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:32:37 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:32:37 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:32:37 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:32:37 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:32:37 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:32:38 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:32:38 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:32:39 - DEBUG - GOT: |  
+24.4.2023, 12:32:39 - DEBUG - GOT: |  
+24.4.2023, 12:32:39 - DEBUG - GOT: |  
+24.4.2023, 12:32:39 - DEBUG - GOT: |  
+24.4.2023, 12:32:39 - DEBUG - GOT: |  
+24.4.2023, 12:32:39 - DEBUG - GOT: |  
+24.4.2023, 12:32:39 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:32:39 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:32:39 - DEBUG - GOT: |  
+24.4.2023, 12:32:39 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:32:39 - DEBUG - GOT: |  
+24.4.2023, 12:32:39 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:32:39 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:32:39 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:32:39 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:32:39 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:32:39 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:32:39 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:32:39 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:32:39 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:32:39 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:32:39 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:32:39 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:32:39 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:40:32 - INFO - Socket disconnected [id: undefined] 
+24.4.2023, 12:40:33 - INFO - New connected socket [id: MKruPeFuQhJXktOpAAAR] 
+24.4.2023, 12:40:34 - INFO - Setting socket.userId = 1234 for socket [id: MKruPeFuQhJXktOpAAAR] 
+24.4.2023, 12:40:42 - INFO - Socket disconnected [id: undefined] 
+24.4.2023, 12:40:43 - INFO - New connected socket [id: Nz2tClJ3PKr42_VjAAAT] 
+24.4.2023, 12:40:43 - INFO - Setting socket.userId = 1234 for socket [id: Nz2tClJ3PKr42_VjAAAT] 
+24.4.2023, 12:40:46 - INFO - Socket disconnected [id: undefined] 
+24.4.2023, 12:40:46 - INFO - New connected socket [id: W8zjkR4fWj_ue-eHAAAV] 
+24.4.2023, 12:40:47 - INFO - Setting socket.userId = 1234 for socket [id: W8zjkR4fWj_ue-eHAAAV] 
+24.4.2023, 12:40:57 - INFO - Socket disconnected [id: undefined] 
+24.4.2023, 12:40:58 - INFO - New connected socket [id: FSxh2C5qAuQaNz8gAAAX] 
+24.4.2023, 12:40:58 - INFO - Setting socket.userId = 1234 for socket [id: FSxh2C5qAuQaNz8gAAAX] 
+24.4.2023, 12:41:14 - INFO - Socket disconnected [id: undefined] 
+24.4.2023, 12:41:15 - INFO - New connected socket [id: cxm4KL9I-Iv78VlLAAAZ] 
+24.4.2023, 12:41:15 - INFO - Setting socket.userId = 1234 for socket [id: cxm4KL9I-Iv78VlLAAAZ] 
+24.4.2023, 12:42:29 - INFO - Socket disconnected [id: undefined] 
+24.4.2023, 12:42:30 - DEBUG - GOT: |  
+24.4.2023, 12:42:30 - DEBUG - Getting Boards 
+24.4.2023, 12:42:30 - DEBUG - GOT: |  
+24.4.2023, 12:42:30 - INFO - New connected socket [id: kegMPUpjM3WmN6t9AAAb] 
+24.4.2023, 12:42:30 - INFO - Setting socket.userId = 1234 for socket [id: kegMPUpjM3WmN6t9AAAb] 
+24.4.2023, 12:42:31 - INFO - topic | 6422de01e6f5b31b74228324 
+24.4.2023, 12:42:31 - INFO - Socket is joining topic 6422de01e6f5b31b74228324 [id: kegMPUpjM3WmN6t9AAAb] 
+24.4.2023, 12:55:50 - INFO - Socket disconnected [id: undefined] 
+24.4.2023, 12:55:51 - DEBUG - GOT: |  
+24.4.2023, 12:55:51 - DEBUG - Getting Boards 
+24.4.2023, 12:55:51 - DEBUG - GOT: |  
+24.4.2023, 12:55:51 - INFO - New connected socket [id: zTC8zbbTeXThC4dzAAAd] 
+24.4.2023, 12:55:51 - INFO - Setting socket.userId = 1234 for socket [id: zTC8zbbTeXThC4dzAAAd] 
+24.4.2023, 12:55:51 - INFO - topic | 6422de01e6f5b31b74228324 
+24.4.2023, 12:55:51 - INFO - Socket is joining topic 6422de01e6f5b31b74228324 [id: zTC8zbbTeXThC4dzAAAd] 
+24.4.2023, 12:55:59 - DEBUG - GOT: |  
+24.4.2023, 12:56:00 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 12:56:00 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 12:57:54 - INFO - Socket disconnected [id: undefined] 
+24.4.2023, 12:58:34 - DEBUG - GOT: |  
+24.4.2023, 12:58:34 - DEBUG - GOT: |  
+24.4.2023, 12:58:34 - DEBUG - Getting Boards 
+24.4.2023, 12:58:35 - INFO - New connected socket [id: nWDYhjjraz-aBJeAAAAf] 
+24.4.2023, 12:58:35 - INFO - Setting socket.userId = 1234 for socket [id: nWDYhjjraz-aBJeAAAAf] 
+24.4.2023, 12:58:37 - INFO - topic | 6422de01e6f5b31b74228324 
+24.4.2023, 12:58:37 - INFO - Socket is joining topic 6422de01e6f5b31b74228324 [id: nWDYhjjraz-aBJeAAAAf] 
+24.4.2023, 13:05:56 - INFO - Socket disconnected [id: undefined] 
+24.4.2023, 13:06:17 - DEBUG - GOT: |  
+24.4.2023, 13:06:17 - DEBUG - Getting Boards 
+24.4.2023, 13:06:17 - DEBUG - GOT: |  
+24.4.2023, 13:06:17 - INFO - New connected socket [id: rgCcX0xXyPfXFu1fAAAh] 
+24.4.2023, 13:06:17 - INFO - Setting socket.userId = 1234 for socket [id: rgCcX0xXyPfXFu1fAAAh] 
+24.4.2023, 13:06:17 - INFO - topic | 6422de01e6f5b31b74228324 
+24.4.2023, 13:06:17 - INFO - Socket is joining topic 6422de01e6f5b31b74228324 [id: rgCcX0xXyPfXFu1fAAAh] 
+24.4.2023, 13:06:19 - DEBUG - GOT: |  
+24.4.2023, 13:06:19 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 13:06:19 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 13:07:54 - DEBUG - GOT: |  
+24.4.2023, 13:07:54 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 13:07:54 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 13:07:56 - DEBUG - GOT: |  
+24.4.2023, 13:07:57 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 13:07:57 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 13:07:58 - DEBUG - GOT: |  
+24.4.2023, 13:07:59 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 13:07:59 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 13:08:01 - DEBUG - GOT: |  
+24.4.2023, 13:08:01 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 13:08:01 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 13:08:04 - DEBUG - GOT: |  
+24.4.2023, 13:08:04 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 13:08:04 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 13:08:50 - DEBUG - GOT: |  
+24.4.2023, 13:08:50 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 13:08:50 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 13:13:30 - DEBUG - GOT: |  
+24.4.2023, 13:13:31 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 13:13:31 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 13:13:31 - DEBUG - GOT: |  
+24.4.2023, 13:13:31 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 13:13:31 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 13:14:17 - DEBUG - GOT: |  
+24.4.2023, 13:14:18 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 13:14:18 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 13:14:20 - DEBUG - GOT: |  
+24.4.2023, 13:14:20 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 13:14:20 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 13:14:20 - DEBUG - GOT: |  
+24.4.2023, 13:14:20 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 13:14:20 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 13:14:23 - DEBUG - GOT: |  
+24.4.2023, 13:14:23 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 13:14:23 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 13:14:23 - DEBUG - GOT: |  
+24.4.2023, 13:14:24 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 13:14:24 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 13:14:48 - DEBUG - GOT: |  
+24.4.2023, 13:14:48 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 13:14:48 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 13:14:48 - INFO - Socket disconnected [id: undefined] 
+24.4.2023, 13:15:55 - DEBUG - GOT: |  
+24.4.2023, 13:15:55 - DEBUG - Getting Boards 
+24.4.2023, 13:15:55 - DEBUG - GOT: |  
+24.4.2023, 13:15:56 - INFO - New connected socket [id: 9yxUWq_owF5M2LK9AAAj] 
+24.4.2023, 13:15:56 - INFO - Setting socket.userId = 1234 for socket [id: 9yxUWq_owF5M2LK9AAAj] 
+24.4.2023, 13:15:59 - INFO - topic | 6422de01e6f5b31b74228324 
+24.4.2023, 13:15:59 - INFO - Socket is joining topic 6422de01e6f5b31b74228324 [id: 9yxUWq_owF5M2LK9AAAj] 
+24.4.2023, 13:16:04 - DEBUG - GOT: |  
+24.4.2023, 13:16:05 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 13:16:05 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 13:16:05 - DEBUG - GOT: |  
+24.4.2023, 13:16:05 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 13:16:05 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 13:16:10 - DEBUG - GOT: |  
+24.4.2023, 13:16:11 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 13:16:11 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 13:16:11 - DEBUG - GOT: |  
+24.4.2023, 13:16:11 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 13:16:11 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 13:22:05 - DEBUG - GOT: |  
+24.4.2023, 13:22:05 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 13:22:05 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 13:37:49 - DEBUG - GOT: |  
+24.4.2023, 13:37:49 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 13:37:49 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:05:10 - DEBUG - GOT: |  
+24.4.2023, 14:05:11 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:05:11 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:05:14 - DEBUG - GOT: |  
+24.4.2023, 14:05:14 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:05:14 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:05:21 - DEBUG - GOT: |  
+24.4.2023, 14:05:21 - DEBUG - GOT: |  
+24.4.2023, 14:05:21 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:05:21 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:05:21 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:05:21 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:07:47 - DEBUG - GOT: |  
+24.4.2023, 14:07:47 - DEBUG - GOT: |  
+24.4.2023, 14:07:47 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:07:47 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:07:47 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:07:47 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:07:54 - INFO - Socket disconnected [id: undefined] 
+24.4.2023, 14:08:35 - DEBUG - GOT: |  
+24.4.2023, 14:08:35 - DEBUG - Getting Boards 
+24.4.2023, 14:08:35 - DEBUG - GOT: |  
+24.4.2023, 14:08:35 - INFO - New connected socket [id: ZJxfplYgHo26MUG5AAAl] 
+24.4.2023, 14:08:36 - INFO - Setting socket.userId = 1234 for socket [id: ZJxfplYgHo26MUG5AAAl] 
+24.4.2023, 14:08:37 - INFO - topic | 6422de01e6f5b31b74228324 
+24.4.2023, 14:08:37 - INFO - Socket is joining topic 6422de01e6f5b31b74228324 [id: ZJxfplYgHo26MUG5AAAl] 
+24.4.2023, 14:08:54 - DEBUG - GOT: |  
+24.4.2023, 14:08:54 - DEBUG - GOT: |  
+24.4.2023, 14:08:54 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:08:54 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:08:54 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:08:54 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:11:00 - DEBUG - GOT: |  
+24.4.2023, 14:11:00 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:11:00 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:11:02 - DEBUG - GOT: |  
+24.4.2023, 14:11:02 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:11:02 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:11:05 - DEBUG - GOT: |  
+24.4.2023, 14:11:05 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:11:05 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:15:21 - INFO - Socket disconnected [id: undefined] 
+24.4.2023, 14:15:22 - DEBUG - Getting Boards 
+24.4.2023, 14:15:22 - DEBUG - GOT: |  
+24.4.2023, 14:15:22 - DEBUG - GOT: |  
+24.4.2023, 14:15:22 - INFO - New connected socket [id: HuqxBTDt0OkbUXZsAAAn] 
+24.4.2023, 14:15:22 - INFO - topic | 6422de01e6f5b31b74228324 
+24.4.2023, 14:15:22 - INFO - Socket is joining topic 6422de01e6f5b31b74228324 [id: HuqxBTDt0OkbUXZsAAAn] 
+24.4.2023, 14:15:23 - INFO - Setting socket.userId = 1234 for socket [id: HuqxBTDt0OkbUXZsAAAn] 
+24.4.2023, 14:21:07 - INFO - Socket disconnected [id: undefined] 
+24.4.2023, 14:21:08 - DEBUG - GOT: |  
+24.4.2023, 14:21:08 - DEBUG - Getting Boards 
+24.4.2023, 14:21:08 - DEBUG - GOT: |  
+24.4.2023, 14:21:08 - INFO - New connected socket [id: p62aK-HmEuS_vV1uAAAp] 
+24.4.2023, 14:21:08 - INFO - topic | 6422de01e6f5b31b74228324 
+24.4.2023, 14:21:08 - INFO - Socket is joining topic 6422de01e6f5b31b74228324 [id: p62aK-HmEuS_vV1uAAAp] 
+24.4.2023, 14:21:09 - INFO - Setting socket.userId = 1234 for socket [id: p62aK-HmEuS_vV1uAAAp] 
+24.4.2023, 14:22:09 - INFO - Socket disconnected [id: undefined] 
+24.4.2023, 14:22:13 - DEBUG - GOT: |  
+24.4.2023, 14:22:13 - DEBUG - Getting Boards 
+24.4.2023, 14:22:13 - DEBUG - GOT: |  
+24.4.2023, 14:22:13 - INFO - New connected socket [id: LbzvaX_1JPUjizcfAAAr] 
+24.4.2023, 14:22:13 - INFO - Setting socket.userId = 1234 for socket [id: LbzvaX_1JPUjizcfAAAr] 
+24.4.2023, 14:22:13 - INFO - topic | 6422de01e6f5b31b74228324 
+24.4.2023, 14:22:13 - INFO - Socket is joining topic 6422de01e6f5b31b74228324 [id: LbzvaX_1JPUjizcfAAAr] 
+24.4.2023, 14:24:45 - INFO - Socket disconnected [id: undefined] 
+24.4.2023, 14:24:49 - DEBUG - GOT: |  
+24.4.2023, 14:24:49 - DEBUG - Getting Boards 
+24.4.2023, 14:24:49 - DEBUG - GOT: |  
+24.4.2023, 14:24:49 - INFO - New connected socket [id: CD4LWrEMefg_I4O2AAAt] 
+24.4.2023, 14:24:49 - INFO - Setting socket.userId = 1234 for socket [id: CD4LWrEMefg_I4O2AAAt] 
+24.4.2023, 14:24:49 - INFO - topic | 6422de01e6f5b31b74228324 
+24.4.2023, 14:24:49 - INFO - Socket is joining topic 6422de01e6f5b31b74228324 [id: CD4LWrEMefg_I4O2AAAt] 
+24.4.2023, 14:24:58 - DEBUG - GOT: |  
+24.4.2023, 14:24:58 - DEBUG - GOT: |  
+24.4.2023, 14:24:59 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:24:59 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:24:59 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:24:59 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:25:02 - DEBUG - GOT: |  
+24.4.2023, 14:25:02 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:25:02 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:25:05 - DEBUG - GOT: |  
+24.4.2023, 14:25:05 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:25:05 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:25:07 - DEBUG - GOT: |  
+24.4.2023, 14:25:07 - DEBUG - GOT: |  
+24.4.2023, 14:25:08 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:25:08 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:25:08 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:25:08 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:25:10 - DEBUG - GOT: |  
+24.4.2023, 14:25:10 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:25:10 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:33:42 - DEBUG - GOT: |  
+24.4.2023, 14:33:42 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:33:42 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:33:49 - DEBUG - GOT: |  
+24.4.2023, 14:33:49 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:33:49 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:33:57 - DEBUG - GOT: |  
+24.4.2023, 14:33:57 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:33:57 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:34:52 - DEBUG - GOT: |  
+24.4.2023, 14:34:52 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:34:52 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:34:53 - DEBUG - GOT: |  
+24.4.2023, 14:34:53 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:34:53 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:34:57 - DEBUG - GOT: |  
+24.4.2023, 14:34:57 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:34:57 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:35:03 - DEBUG - GOT: |  
+24.4.2023, 14:35:03 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:35:03 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:35:08 - DEBUG - GOT: |  
+24.4.2023, 14:35:08 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:35:08 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:35:11 - DEBUG - GOT: |  
+24.4.2023, 14:35:11 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:35:11 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:35:21 - DEBUG - GOT: |  
+24.4.2023, 14:35:21 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:35:21 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:35:28 - DEBUG - GOT: |  
+24.4.2023, 14:35:28 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:35:28 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:35:42 - DEBUG - GOT: |  
+24.4.2023, 14:35:42 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:35:42 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:36:04 - DEBUG - GOT: |  
+24.4.2023, 14:36:04 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:36:04 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:36:16 - DEBUG - GOT: |  
+24.4.2023, 14:36:16 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:36:16 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:36:31 - DEBUG - GOT: |  
+24.4.2023, 14:36:31 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:36:31 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:36:34 - DEBUG - GOT: |  
+24.4.2023, 14:36:34 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:36:34 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:36:46 - DEBUG - GOT: |  
+24.4.2023, 14:36:46 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:36:46 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:37:04 - DEBUG - GOT: |  
+24.4.2023, 14:37:04 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:37:04 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:37:12 - DEBUG - GOT: |  
+24.4.2023, 14:37:12 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:37:12 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:37:21 - DEBUG - GOT: |  
+24.4.2023, 14:37:21 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:37:21 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:37:24 - DEBUG - GOT: |  
+24.4.2023, 14:37:24 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:37:24 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:37:33 - DEBUG - GOT: |  
+24.4.2023, 14:37:33 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:37:33 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:37:57 - DEBUG - GOT: |  
+24.4.2023, 14:37:58 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:37:58 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:39:35 - DEBUG - GOT: |  
+24.4.2023, 14:39:35 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:39:35 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:39:44 - DEBUG - GOT: |  
+24.4.2023, 14:39:44 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:39:44 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:39:52 - DEBUG - GOT: |  
+24.4.2023, 14:39:52 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:39:52 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:40:07 - DEBUG - GOT: |  
+24.4.2023, 14:40:07 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:40:07 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:40:13 - DEBUG - GOT: |  
+24.4.2023, 14:40:13 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:40:13 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:40:15 - DEBUG - GOT: |  
+24.4.2023, 14:40:15 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:40:15 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:40:24 - DEBUG - GOT: |  
+24.4.2023, 14:40:25 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:40:25 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:40:48 - DEBUG - GOT: |  
+24.4.2023, 14:40:48 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:40:48 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:40:54 - DEBUG - GOT: |  
+24.4.2023, 14:40:54 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:40:54 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:41:01 - DEBUG - GOT: |  
+24.4.2023, 14:41:01 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:41:01 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:41:04 - DEBUG - GOT: |  
+24.4.2023, 14:41:04 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:41:04 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:41:54 - DEBUG - GOT: |  
+24.4.2023, 14:41:54 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:41:54 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:42:27 - DEBUG - GOT: |  
+24.4.2023, 14:42:27 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:42:27 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:42:39 - DEBUG - GOT: |  
+24.4.2023, 14:42:39 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:42:39 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:42:54 - DEBUG - GOT: |  
+24.4.2023, 14:42:54 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:42:54 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:43:02 - DEBUG - GOT: |  
+24.4.2023, 14:43:02 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:43:02 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:43:15 - DEBUG - GOT: |  
+24.4.2023, 14:43:15 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:43:15 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:44:15 - DEBUG - GOT: |  
+24.4.2023, 14:44:15 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:44:15 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:44:18 - DEBUG - GOT: |  
+24.4.2023, 14:44:18 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:44:18 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:44:22 - DEBUG - GOT: |  
+24.4.2023, 14:44:22 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:44:22 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:44:27 - DEBUG - GOT: |  
+24.4.2023, 14:44:28 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:44:28 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:44:34 - DEBUG - GOT: |  
+24.4.2023, 14:44:34 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:44:34 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:44:42 - DEBUG - GOT: |  
+24.4.2023, 14:44:42 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:44:42 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:44:44 - DEBUG - GOT: |  
+24.4.2023, 14:44:45 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:44:45 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:44:47 - DEBUG - GOT: |  
+24.4.2023, 14:44:47 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:44:47 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:45:06 - DEBUG - GOT: |  
+24.4.2023, 14:45:06 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:45:06 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:46:48 - DEBUG - GOT: |  
+24.4.2023, 14:46:48 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:46:48 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:46:50 - DEBUG - GOT: |  
+24.4.2023, 14:46:50 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:46:50 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:46:56 - DEBUG - GOT: |  
+24.4.2023, 14:46:56 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:46:56 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:47:03 - DEBUG - GOT: |  
+24.4.2023, 14:47:03 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:47:03 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:47:11 - DEBUG - GOT: |  
+24.4.2023, 14:47:12 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:47:12 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:47:14 - DEBUG - GOT: |  
+24.4.2023, 14:47:14 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:47:14 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:47:39 - DEBUG - GOT: |  
+24.4.2023, 14:47:39 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:47:39 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:47:49 - DEBUG - GOT: |  
+24.4.2023, 14:47:49 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:47:49 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:47:55 - DEBUG - GOT: |  
+24.4.2023, 14:47:55 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:47:55 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:48:24 - DEBUG - GOT: |  
+24.4.2023, 14:48:25 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:48:25 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:48:27 - DEBUG - GOT: |  
+24.4.2023, 14:48:27 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:48:27 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:48:44 - DEBUG - GOT: |  
+24.4.2023, 14:48:44 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:48:44 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:49:03 - DEBUG - GOT: |  
+24.4.2023, 14:49:04 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:49:04 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:49:12 - DEBUG - GOT: |  
+24.4.2023, 14:49:12 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:49:12 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:49:25 - DEBUG - GOT: |  
+24.4.2023, 14:49:26 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:49:26 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:49:27 - DEBUG - GOT: |  
+24.4.2023, 14:49:27 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:49:27 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:49:31 - DEBUG - GOT: |  
+24.4.2023, 14:49:31 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:49:31 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:49:39 - DEBUG - GOT: |  
+24.4.2023, 14:49:39 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:49:39 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:49:45 - DEBUG - GOT: |  
+24.4.2023, 14:49:45 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:49:45 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:49:47 - DEBUG - GOT: |  
+24.4.2023, 14:49:47 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:49:47 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:49:59 - DEBUG - GOT: |  
+24.4.2023, 14:49:59 - DEBUG - GOT: |  
+24.4.2023, 14:49:59 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:49:59 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:50:00 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:50:00 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:50:02 - INFO - Socket disconnected [id: undefined] 
+24.4.2023, 14:50:03 - DEBUG - GOT: |  
+24.4.2023, 14:50:03 - DEBUG - Getting Boards 
+24.4.2023, 14:50:03 - DEBUG - GOT: |  
+24.4.2023, 14:50:03 - INFO - New connected socket [id: iAUkSPWIA61mtr-6AAAv] 
+24.4.2023, 14:50:04 - INFO - topic | 6422de01e6f5b31b74228324 
+24.4.2023, 14:50:04 - INFO - Socket is joining topic 6422de01e6f5b31b74228324 [id: iAUkSPWIA61mtr-6AAAv] 
+24.4.2023, 14:50:05 - INFO - Setting socket.userId = 1234 for socket [id: iAUkSPWIA61mtr-6AAAv] 
+24.4.2023, 14:50:13 - DEBUG - GOT: |  
+24.4.2023, 14:50:13 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:50:13 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:50:15 - DEBUG - GOT: |  
+24.4.2023, 14:50:15 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:50:15 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:50:28 - DEBUG - GOT: |  
+24.4.2023, 14:50:28 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:50:28 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:50:31 - DEBUG - GOT: |  
+24.4.2023, 14:50:31 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:50:31 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:50:45 - DEBUG - GOT: |  
+24.4.2023, 14:50:45 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:50:45 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:50:54 - DEBUG - GOT: |  
+24.4.2023, 14:50:55 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:50:55 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:50:58 - DEBUG - GOT: |  
+24.4.2023, 14:50:58 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:50:58 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:52:26 - DEBUG - GOT: |  
+24.4.2023, 14:52:26 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:52:26 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:52:35 - INFO - Socket disconnected [id: undefined] 
+24.4.2023, 14:52:39 - DEBUG - GOT: |  
+24.4.2023, 14:52:39 - DEBUG - Getting Boards 
+24.4.2023, 14:52:39 - DEBUG - GOT: |  
+24.4.2023, 14:52:39 - INFO - New connected socket [id: dEZwc2xsKJt5BgcTAAAx] 
+24.4.2023, 14:52:39 - INFO - topic | 6422de01e6f5b31b74228324 
+24.4.2023, 14:52:39 - INFO - Socket is joining topic 6422de01e6f5b31b74228324 [id: dEZwc2xsKJt5BgcTAAAx] 
+24.4.2023, 14:52:40 - INFO - Setting socket.userId = 1234 for socket [id: dEZwc2xsKJt5BgcTAAAx] 
+24.4.2023, 14:53:00 - DEBUG - GOT: |  
+24.4.2023, 14:53:01 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:53:01 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:53:27 - DEBUG - GOT: |  
+24.4.2023, 14:53:28 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:53:28 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:53:44 - DEBUG - GOT: |  
+24.4.2023, 14:53:45 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:53:45 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:55:03 - DEBUG - GOT: |  
+24.4.2023, 14:55:03 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:55:03 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:57:06 - DEBUG - GOT: |  
+24.4.2023, 14:57:06 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:57:06 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:57:23 - DEBUG - GOT: |  
+24.4.2023, 14:57:23 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:57:23 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:57:29 - DEBUG - GOT: |  
+24.4.2023, 14:57:29 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:57:29 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:58:33 - DEBUG - GOT: |  
+24.4.2023, 14:58:33 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:58:33 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:58:34 - DEBUG - GOT: |  
+24.4.2023, 14:58:34 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:58:34 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 14:58:56 - DEBUG - GOT: |  
+24.4.2023, 14:58:57 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 14:58:57 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:00:10 - DEBUG - GOT: |  
+24.4.2023, 15:00:10 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:00:10 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:02:23 - DEBUG - GOT: |  
+24.4.2023, 15:02:23 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:02:23 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:02:34 - DEBUG - GOT: |  
+24.4.2023, 15:02:34 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:02:34 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:02:36 - DEBUG - GOT: |  
+24.4.2023, 15:02:37 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:02:37 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:02:39 - DEBUG - GOT: |  
+24.4.2023, 15:02:39 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:02:39 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:02:52 - DEBUG - GOT: |  
+24.4.2023, 15:02:52 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:02:52 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:02:58 - DEBUG - GOT: |  
+24.4.2023, 15:02:58 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:02:58 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:03:03 - DEBUG - GOT: |  
+24.4.2023, 15:03:03 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:03:03 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:04:57 - DEBUG - GOT: |  
+24.4.2023, 15:04:57 - DEBUG - GOT: |  
+24.4.2023, 15:04:58 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:04:58 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:04:58 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:04:58 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:05:03 - DEBUG - GOT: |  
+24.4.2023, 15:05:03 - DEBUG - GOT: |  
+24.4.2023, 15:05:03 - DEBUG - GOT: |  
+24.4.2023, 15:05:03 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:05:03 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:05:03 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:05:03 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:05:03 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:05:03 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:05:05 - DEBUG - GOT: |  
+24.4.2023, 15:05:05 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:05:05 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:05:07 - DEBUG - GOT: |  
+24.4.2023, 15:05:07 - DEBUG - GOT: |  
+24.4.2023, 15:05:07 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:05:07 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:05:07 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:05:07 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:05:11 - DEBUG - GOT: |  
+24.4.2023, 15:05:11 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:05:11 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:05:12 - DEBUG - GOT: |  
+24.4.2023, 15:05:12 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:05:12 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:05:13 - DEBUG - GOT: |  
+24.4.2023, 15:05:14 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:05:14 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:05:21 - DEBUG - GOT: |  
+24.4.2023, 15:05:21 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:05:21 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:05:47 - DEBUG - GOT: |  
+24.4.2023, 15:05:47 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:05:47 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:12:59 - DEBUG - GOT: |  
+24.4.2023, 15:12:59 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:12:59 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:13:48 - DEBUG - GOT: |  
+24.4.2023, 15:13:48 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:13:48 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:13:53 - DEBUG - GOT: |  
+24.4.2023, 15:13:53 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:13:53 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:14:29 - DEBUG - GOT: |  
+24.4.2023, 15:14:29 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:14:29 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:14:32 - DEBUG - GOT: |  
+24.4.2023, 15:14:32 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:14:32 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:16:01 - DEBUG - GOT: |  
+24.4.2023, 15:16:01 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:16:01 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:16:18 - DEBUG - GOT: |  
+24.4.2023, 15:16:18 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:16:18 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:16:19 - DEBUG - GOT: |  
+24.4.2023, 15:16:19 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:16:19 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:16:33 - DEBUG - GOT: |  
+24.4.2023, 15:16:33 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:16:33 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:16:38 - DEBUG - GOT: |  
+24.4.2023, 15:16:38 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:16:38 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:16:47 - DEBUG - GOT: |  
+24.4.2023, 15:16:47 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:16:47 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:16:55 - DEBUG - GOT: |  
+24.4.2023, 15:16:55 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:16:55 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:16:59 - DEBUG - GOT: |  
+24.4.2023, 15:16:59 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:16:59 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:17:04 - DEBUG - GOT: |  
+24.4.2023, 15:17:04 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:17:04 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:17:11 - DEBUG - GOT: |  
+24.4.2023, 15:17:11 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:17:11 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:17:17 - DEBUG - GOT: |  
+24.4.2023, 15:17:17 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:17:17 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:17:18 - DEBUG - GOT: |  
+24.4.2023, 15:17:18 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:17:18 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:17:22 - DEBUG - GOT: |  
+24.4.2023, 15:17:22 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:17:22 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:17:24 - DEBUG - GOT: |  
+24.4.2023, 15:17:25 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:17:25 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:17:27 - DEBUG - GOT: |  
+24.4.2023, 15:17:27 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:17:27 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:17:40 - DEBUG - GOT: |  
+24.4.2023, 15:17:40 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:17:40 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:17:42 - DEBUG - GOT: |  
+24.4.2023, 15:17:42 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:17:42 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:18:07 - DEBUG - GOT: |  
+24.4.2023, 15:18:07 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:18:07 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:18:10 - DEBUG - GOT: |  
+24.4.2023, 15:18:10 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:18:10 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:18:17 - DEBUG - GOT: |  
+24.4.2023, 15:18:17 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:18:17 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:18:25 - DEBUG - GOT: |  
+24.4.2023, 15:18:25 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:18:25 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:18:27 - DEBUG - GOT: |  
+24.4.2023, 15:18:28 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:18:28 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:19:31 - DEBUG - GOT: |  
+24.4.2023, 15:19:31 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:19:31 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:19:40 - DEBUG - GOT: |  
+24.4.2023, 15:19:40 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:19:40 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:21:12 - DEBUG - GOT: |  
+24.4.2023, 15:21:12 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:21:12 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:21:14 - DEBUG - GOT: |  
+24.4.2023, 15:21:14 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:21:14 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:21:26 - DEBUG - GOT: |  
+24.4.2023, 15:21:26 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:21:26 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:21:40 - DEBUG - GOT: |  
+24.4.2023, 15:21:40 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:21:40 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:22:14 - DEBUG - GOT: |  
+24.4.2023, 15:22:14 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:22:14 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:22:20 - DEBUG - GOT: |  
+24.4.2023, 15:22:20 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:22:20 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:22:25 - DEBUG - GOT: |  
+24.4.2023, 15:22:26 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:22:26 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:22:30 - DEBUG - GOT: |  
+24.4.2023, 15:22:30 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:22:30 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:22:41 - DEBUG - GOT: |  
+24.4.2023, 15:22:41 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:22:41 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:22:49 - DEBUG - GOT: |  
+24.4.2023, 15:22:49 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:22:49 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:23:43 - DEBUG - GOT: |  
+24.4.2023, 15:23:43 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:23:43 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:23:47 - INFO - Socket disconnected [id: undefined] 
+24.4.2023, 15:23:51 - DEBUG - GOT: |  
+24.4.2023, 15:23:51 - DEBUG - Getting Boards 
+24.4.2023, 15:23:51 - DEBUG - GOT: |  
+24.4.2023, 15:23:51 - INFO - New connected socket [id: wHMJbHwuKFXWbLWnAAAz] 
+24.4.2023, 15:23:52 - INFO - Setting socket.userId = 1234 for socket [id: wHMJbHwuKFXWbLWnAAAz] 
+24.4.2023, 15:23:52 - INFO - topic | 6422de01e6f5b31b74228324 
+24.4.2023, 15:23:52 - INFO - Socket is joining topic 6422de01e6f5b31b74228324 [id: wHMJbHwuKFXWbLWnAAAz] 
+24.4.2023, 15:24:11 - DEBUG - GOT: |  
+24.4.2023, 15:24:11 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:24:11 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:24:49 - DEBUG - GOT: |  
+24.4.2023, 15:24:50 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:24:50 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:24:52 - DEBUG - GOT: |  
+24.4.2023, 15:24:52 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:24:52 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:26:16 - DEBUG - GOT: |  
+24.4.2023, 15:26:17 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:26:17 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:26:21 - DEBUG - GOT: |  
+24.4.2023, 15:26:21 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:26:21 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:26:25 - DEBUG - GOT: |  
+24.4.2023, 15:26:26 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:26:26 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:27:58 - DEBUG - GOT: |  
+24.4.2023, 15:27:59 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:27:59 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:29:08 - DEBUG - GOT: |  
+24.4.2023, 15:29:08 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:29:08 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:29:41 - DEBUG - GOT: |  
+24.4.2023, 15:29:42 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:29:42 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:29:45 - DEBUG - GOT: |  
+24.4.2023, 15:29:45 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:29:45 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:29:49 - INFO - Socket disconnected [id: undefined] 
+24.4.2023, 15:29:49 - DEBUG - GOT: |  
+24.4.2023, 15:29:49 - DEBUG - Getting Boards 
+24.4.2023, 15:29:50 - DEBUG - GOT: |  
+24.4.2023, 15:29:50 - INFO - New connected socket [id: YfPPKSYNIs1a_IcJAAA1] 
+24.4.2023, 15:29:50 - INFO - Setting socket.userId = 1234 for socket [id: YfPPKSYNIs1a_IcJAAA1] 
+24.4.2023, 15:29:50 - INFO - topic | 6422de01e6f5b31b74228324 
+24.4.2023, 15:29:50 - INFO - Socket is joining topic 6422de01e6f5b31b74228324 [id: YfPPKSYNIs1a_IcJAAA1] 
+24.4.2023, 15:29:57 - DEBUG - GOT: |  
+24.4.2023, 15:29:57 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:29:57 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:29:58 - DEBUG - GOT: |  
+24.4.2023, 15:29:58 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:29:58 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:31:51 - DEBUG - GOT: |  
+24.4.2023, 15:31:51 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:31:51 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:34:54 - DEBUG - GOT: |  
+24.4.2023, 15:34:54 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:34:54 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:35:00 - DEBUG - GOT: |  
+24.4.2023, 15:35:01 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:35:01 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:35:04 - INFO - Socket disconnected [id: undefined] 
+24.4.2023, 15:35:05 - DEBUG - GOT: |  
+24.4.2023, 15:35:05 - DEBUG - Getting Boards 
+24.4.2023, 15:35:05 - DEBUG - GOT: |  
+24.4.2023, 15:35:05 - INFO - New connected socket [id: RqBZnC57yccmp387AAA3] 
+24.4.2023, 15:35:06 - INFO - Setting socket.userId = 1234 for socket [id: RqBZnC57yccmp387AAA3] 
+24.4.2023, 15:35:06 - INFO - topic | 6422de01e6f5b31b74228324 
+24.4.2023, 15:35:06 - INFO - Socket is joining topic 6422de01e6f5b31b74228324 [id: RqBZnC57yccmp387AAA3] 
+24.4.2023, 15:39:14 - DEBUG - GOT: |  
+24.4.2023, 15:39:14 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:39:14 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:39:30 - DEBUG - GOT: |  
+24.4.2023, 15:39:30 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:39:30 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:41:17 - DEBUG - GOT: |  
+24.4.2023, 15:41:17 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:41:17 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:41:18 - DEBUG - GOT: |  
+24.4.2023, 15:41:19 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:41:19 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:41:44 - DEBUG - GOT: |  
+24.4.2023, 15:41:45 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:41:45 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:42:12 - DEBUG - GOT: |  
+24.4.2023, 15:42:12 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:42:12 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:42:19 - DEBUG - GOT: |  
+24.4.2023, 15:42:19 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:42:19 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:43:16 - DEBUG - GOT: |  
+24.4.2023, 15:43:16 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:43:16 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:43:17 - DEBUG - GOT: |  
+24.4.2023, 15:43:17 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:43:17 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:45:46 - DEBUG - GOT: |  
+24.4.2023, 15:45:46 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 15:45:46 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 15:48:21 - INFO - Socket disconnected [id: undefined] 
+24.4.2023, 15:49:02 - DEBUG - GOT: |  
+24.4.2023, 15:49:02 - DEBUG - Getting Boards 
+24.4.2023, 15:49:02 - DEBUG - GOT: |  
+24.4.2023, 15:49:02 - INFO - New connected socket [id: _3Ijsjm0lVvfKmauAAA5] 
+24.4.2023, 15:49:03 - INFO - Setting socket.userId = 1234 for socket [id: _3Ijsjm0lVvfKmauAAA5] 
+24.4.2023, 15:49:04 - INFO - topic | 6422de01e6f5b31b74228324 
+24.4.2023, 15:49:04 - INFO - Socket is joining topic 6422de01e6f5b31b74228324 [id: _3Ijsjm0lVvfKmauAAA5] 
+24.4.2023, 16:01:39 - DEBUG - GOT: |  
+24.4.2023, 16:01:39 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 16:01:39 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 16:01:59 - DEBUG - GOT: |  
+24.4.2023, 16:01:59 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 16:01:59 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 16:02:04 - DEBUG - GOT: |  
+24.4.2023, 16:02:04 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 16:02:04 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 16:03:07 - INFO - Socket disconnected [id: undefined] 
+24.4.2023, 16:03:13 - INFO - New connected socket [id: HD5gIaEsJAc1Bz_bAAA7] 
+24.4.2023, 16:03:17 - DEBUG - GOT: |  
+24.4.2023, 16:03:17 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 16:03:17 - INFO - Emit to room: 6422de01e6f5b31b74228324 
+24.4.2023, 16:05:49 - DEBUG - GOT: |  
+24.4.2023, 16:05:49 - INFO - Emit to room: 6422de01e6f5b31b74228324 
+24.4.2023, 16:05:49 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 16:06:43 - DEBUG - GOT: |  
+24.4.2023, 16:06:43 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 16:06:43 - INFO - Emit to room: 6422de01e6f5b31b74228324 
+24.4.2023, 16:06:45 - DEBUG - GOT: |  
+24.4.2023, 16:06:45 - INFO - Emit to room: 6422de01e6f5b31b74228324 
+24.4.2023, 16:06:45 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 16:06:56 - DEBUG - GOT: |  
+24.4.2023, 16:06:56 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 16:06:56 - INFO - Emit to room: 6422de01e6f5b31b74228324 
+24.4.2023, 16:07:43 - INFO - Socket disconnected [id: undefined] 
+24.4.2023, 16:07:49 - DEBUG - GOT: |  
+24.4.2023, 16:07:49 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 16:07:49 - INFO - Emit to room: 6422de01e6f5b31b74228324 
+24.4.2023, 16:07:51 - DEBUG - GOT: |  
+24.4.2023, 16:07:51 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 16:07:51 - INFO - Emit to room: 6422de01e6f5b31b74228324 
+24.4.2023, 16:07:51 - INFO - New connected socket [id: zCjXyVN5kF9iEIfJAAA9] 
+24.4.2023, 16:07:58 - DEBUG - GOT: |  
+24.4.2023, 16:07:58 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 16:07:58 - INFO - Emit to room: 6422de01e6f5b31b74228324 
+24.4.2023, 16:08:01 - DEBUG - GOT: |  
+24.4.2023, 16:08:01 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 16:08:01 - INFO - Emit to room: 6422de01e6f5b31b74228324 
+24.4.2023, 16:08:36 - INFO - Socket disconnected [id: undefined] 
+24.4.2023, 16:08:44 - DEBUG - GOT: |  
+24.4.2023, 16:08:44 - INFO - Emit to room: 6422de01e6f5b31b74228324 
+24.4.2023, 16:08:44 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 16:08:45 - INFO - New connected socket [id: DTr4WxR_zfcRiPZjAAA_] 
+24.4.2023, 16:08:51 - DEBUG - GOT: |  
+24.4.2023, 16:08:51 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 16:08:51 - INFO - Emit to room: 6422de01e6f5b31b74228324 
+24.4.2023, 16:08:54 - DEBUG - GOT: |  
+24.4.2023, 16:08:54 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 16:08:54 - INFO - Emit to room: 6422de01e6f5b31b74228324 
+24.4.2023, 16:09:01 - DEBUG - GOT: |  
+24.4.2023, 16:09:02 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 16:09:02 - INFO - Emit to room: 6422de01e6f5b31b74228324 
+24.4.2023, 16:09:07 - DEBUG - GOT: |  
+24.4.2023, 16:09:07 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 16:09:07 - INFO - Emit to room: 6422de01e6f5b31b74228324 
+24.4.2023, 16:09:10 - DEBUG - GOT: |  
+24.4.2023, 16:09:10 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 16:09:10 - INFO - Emit to room: 6422de01e6f5b31b74228324 
+24.4.2023, 16:12:28 - DEBUG - GOT: |  
+24.4.2023, 16:12:29 - INFO - Emit to room: 6422de01e6f5b31b74228324 
+24.4.2023, 16:12:29 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 16:12:34 - DEBUG - GOT: |  
+24.4.2023, 16:12:34 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 16:12:34 - INFO - Emit to room: 6422de01e6f5b31b74228324 
+24.4.2023, 16:12:37 - DEBUG - GOT: |  
+24.4.2023, 16:12:37 - INFO - Emit to room: 6422de01e6f5b31b74228324 
+24.4.2023, 16:12:37 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 16:14:44 - DEBUG - GOT: |  
+24.4.2023, 16:14:45 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 16:14:45 - INFO - Emit to room: 6422de01e6f5b31b74228324 
+24.4.2023, 16:14:57 - DEBUG - GOT: |  
+24.4.2023, 16:14:57 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 16:14:57 - INFO - Emit to room: 6422de01e6f5b31b74228324 
+24.4.2023, 16:15:12 - DEBUG - GOT: |  
+24.4.2023, 16:15:12 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 16:15:12 - INFO - Emit to room: 6422de01e6f5b31b74228324 
+24.4.2023, 16:15:17 - DEBUG - GOT: |  
+24.4.2023, 16:15:17 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 16:15:17 - INFO - Emit to room: 6422de01e6f5b31b74228324 
+24.4.2023, 16:15:47 - DEBUG - GOT: |  
+24.4.2023, 16:15:47 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 16:15:47 - INFO - Emit to room: 6422de01e6f5b31b74228324 
+24.4.2023, 16:15:48 - DEBUG - GOT: |  
+24.4.2023, 16:15:48 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 16:15:48 - INFO - Emit to room: 6422de01e6f5b31b74228324 
+24.4.2023, 16:16:37 - INFO - Socket disconnected [id: undefined] 
+24.4.2023, 16:16:38 - DEBUG - GOT: |  
+24.4.2023, 16:16:38 - DEBUG - Getting Boards 
+24.4.2023, 16:16:38 - DEBUG - GOT: |  
+24.4.2023, 16:16:38 - INFO - New connected socket [id: qbERZqy_b96gn0v1AABB] 
+24.4.2023, 16:16:39 - INFO - Setting socket.userId = 1234 for socket [id: qbERZqy_b96gn0v1AABB] 
+24.4.2023, 16:16:39 - INFO - topic | 6422de01e6f5b31b74228324 
+24.4.2023, 16:16:39 - INFO - Socket is joining topic 6422de01e6f5b31b74228324 [id: qbERZqy_b96gn0v1AABB] 
+24.4.2023, 16:18:24 - INFO - Socket disconnected [id: undefined] 
+24.4.2023, 16:18:25 - DEBUG - GOT: |  
+24.4.2023, 16:18:25 - DEBUG - Getting Boards 
+24.4.2023, 16:18:25 - DEBUG - GOT: |  
+24.4.2023, 16:18:25 - INFO - New connected socket [id: CZFM11kQMcBoeoR8AABD] 
+24.4.2023, 16:18:25 - INFO - Setting socket.userId = 1234 for socket [id: CZFM11kQMcBoeoR8AABD] 
+24.4.2023, 16:18:26 - INFO - topic | 6422de01e6f5b31b74228324 
+24.4.2023, 16:18:26 - INFO - Socket is joining topic 6422de01e6f5b31b74228324 [id: CZFM11kQMcBoeoR8AABD] 
+24.4.2023, 16:20:12 - DEBUG - GOT: |  
+24.4.2023, 16:20:12 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 16:20:12 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 16:21:50 - DEBUG - GOT: |  
+24.4.2023, 16:21:50 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 16:21:50 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 16:28:41 - DEBUG - GOT: |  
+24.4.2023, 16:28:41 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 16:28:41 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 16:30:00 - DEBUG - GOT: |  
+24.4.2023, 16:30:01 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 16:30:01 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 16:31:04 - DEBUG - GOT: |  
+24.4.2023, 16:31:05 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 16:31:05 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 16:34:49 - INFO - Socket disconnected [id: undefined] 
+24.4.2023, 16:34:49 - DEBUG - GOT: |  
+24.4.2023, 16:34:49 - DEBUG - Getting Boards 
+24.4.2023, 16:34:49 - DEBUG - GOT: |  
+24.4.2023, 16:34:50 - INFO - New connected socket [id: EB02vRlW5faVMYhcAABF] 
+24.4.2023, 16:34:50 - INFO - Setting socket.userId = 1234 for socket [id: EB02vRlW5faVMYhcAABF] 
+24.4.2023, 16:34:50 - INFO - topic | 6422de01e6f5b31b74228324 
+24.4.2023, 16:34:50 - INFO - Socket is joining topic 6422de01e6f5b31b74228324 [id: EB02vRlW5faVMYhcAABF] 
+24.4.2023, 16:39:09 - INFO - Socket disconnected [id: undefined] 
+24.4.2023, 16:39:10 - DEBUG - GOT: |  
+24.4.2023, 16:39:10 - DEBUG - Getting Boards 
+24.4.2023, 16:39:10 - DEBUG - GOT: |  
+24.4.2023, 16:39:10 - INFO - New connected socket [id: VenxhGX6mshzwPkpAABH] 
+24.4.2023, 16:39:11 - INFO - Setting socket.userId = 1234 for socket [id: VenxhGX6mshzwPkpAABH] 
+24.4.2023, 16:39:11 - INFO - topic | 6422de01e6f5b31b74228324 
+24.4.2023, 16:39:11 - INFO - Socket is joining topic 6422de01e6f5b31b74228324 [id: VenxhGX6mshzwPkpAABH] 
+24.4.2023, 16:56:52 - INFO - Socket disconnected [id: undefined] 
+24.4.2023, 16:56:53 - DEBUG - GOT: |  
+24.4.2023, 16:56:53 - DEBUG - Getting Boards 
+24.4.2023, 16:56:53 - DEBUG - GOT: |  
+24.4.2023, 16:56:53 - INFO - New connected socket [id: tmX9wWBK7HYHwkRMAABJ] 
+24.4.2023, 16:56:53 - INFO - Setting socket.userId = 1234 for socket [id: tmX9wWBK7HYHwkRMAABJ] 
+24.4.2023, 16:56:54 - INFO - topic | 6422de01e6f5b31b74228324 
+24.4.2023, 16:56:54 - INFO - Socket is joining topic 6422de01e6f5b31b74228324 [id: tmX9wWBK7HYHwkRMAABJ] 
+24.4.2023, 16:58:07 - INFO - Socket disconnected [id: undefined] 
+24.4.2023, 16:58:08 - DEBUG - GOT: |  
+24.4.2023, 16:58:08 - DEBUG - Getting Boards 
+24.4.2023, 16:58:08 - DEBUG - GOT: |  
+24.4.2023, 16:58:08 - INFO - New connected socket [id: 2nvQYmT1f_WixCGBAABL] 
+24.4.2023, 16:58:08 - INFO - Setting socket.userId = 1234 for socket [id: 2nvQYmT1f_WixCGBAABL] 
+24.4.2023, 16:58:09 - INFO - topic | 6422de01e6f5b31b74228324 
+24.4.2023, 16:58:09 - INFO - Socket is joining topic 6422de01e6f5b31b74228324 [id: 2nvQYmT1f_WixCGBAABL] 
+24.4.2023, 16:59:12 - INFO - Socket disconnected [id: undefined] 
+24.4.2023, 16:59:13 - DEBUG - GOT: |  
+24.4.2023, 16:59:13 - DEBUG - Getting Boards 
+24.4.2023, 16:59:13 - DEBUG - GOT: |  
+24.4.2023, 16:59:13 - INFO - New connected socket [id: DDF7dpyDlqAuh9EMAABN] 
+24.4.2023, 16:59:13 - INFO - Setting socket.userId = 1234 for socket [id: DDF7dpyDlqAuh9EMAABN] 
+24.4.2023, 16:59:14 - INFO - topic | 6422de01e6f5b31b74228324 
+24.4.2023, 16:59:14 - INFO - Socket is joining topic 6422de01e6f5b31b74228324 [id: DDF7dpyDlqAuh9EMAABN] 
+24.4.2023, 16:59:18 - DEBUG - GOT: |  
+24.4.2023, 16:59:18 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 16:59:18 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 17:00:00 - DEBUG - GOT: |  
+24.4.2023, 17:00:00 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 17:00:00 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 17:00:02 - INFO - Socket disconnected [id: undefined] 
+24.4.2023, 17:00:03 - DEBUG - GOT: |  
+24.4.2023, 17:00:03 - DEBUG - Getting Boards 
+24.4.2023, 17:00:03 - DEBUG - GOT: |  
+24.4.2023, 17:00:03 - INFO - New connected socket [id: UJ9TvjC8BOxxoapIAABP] 
+24.4.2023, 17:00:04 - INFO - Setting socket.userId = 1234 for socket [id: UJ9TvjC8BOxxoapIAABP] 
+24.4.2023, 17:00:04 - INFO - topic | 6422de01e6f5b31b74228324 
+24.4.2023, 17:00:04 - INFO - Socket is joining topic 6422de01e6f5b31b74228324 [id: UJ9TvjC8BOxxoapIAABP] 
+24.4.2023, 17:01:43 - INFO - Socket disconnected [id: undefined] 
+24.4.2023, 17:01:45 - DEBUG - GOT: |  
+24.4.2023, 17:01:45 - DEBUG - Getting Boards 
+24.4.2023, 17:01:45 - DEBUG - GOT: |  
+24.4.2023, 17:01:45 - INFO - New connected socket [id: G5qZCwuZZbIKl_OAAABR] 
+24.4.2023, 17:01:45 - INFO - Setting socket.userId = 1234 for socket [id: G5qZCwuZZbIKl_OAAABR] 
+24.4.2023, 17:01:45 - INFO - topic | 6422de01e6f5b31b74228324 
+24.4.2023, 17:01:45 - INFO - Socket is joining topic 6422de01e6f5b31b74228324 [id: G5qZCwuZZbIKl_OAAABR] 
+24.4.2023, 17:01:50 - DEBUG - GOT: |  
+24.4.2023, 17:01:50 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 17:01:50 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 17:01:52 - DEBUG - GOT: |  
+24.4.2023, 17:01:52 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 17:01:52 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 17:01:53 - DEBUG - GOT: |  
+24.4.2023, 17:01:53 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 17:01:53 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 17:03:22 - INFO - Socket disconnected [id: undefined] 
+24.4.2023, 17:03:24 - DEBUG - GOT: |  
+24.4.2023, 17:03:24 - DEBUG - Getting Boards 
+24.4.2023, 17:03:24 - DEBUG - GOT: |  
+24.4.2023, 17:03:24 - INFO - New connected socket [id: 6n6qj1pSSwuozEotAABT] 
+24.4.2023, 17:03:24 - INFO - Setting socket.userId = 1234 for socket [id: 6n6qj1pSSwuozEotAABT] 
+24.4.2023, 17:03:25 - INFO - topic | 6422de01e6f5b31b74228324 
+24.4.2023, 17:03:25 - INFO - Socket is joining topic 6422de01e6f5b31b74228324 [id: 6n6qj1pSSwuozEotAABT] 
+24.4.2023, 17:03:28 - DEBUG - GOT: |  
+24.4.2023, 17:03:28 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 17:03:28 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 17:03:32 - DEBUG - GOT: |  
+24.4.2023, 17:03:33 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 17:03:33 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 17:03:36 - INFO - Socket disconnected [id: undefined] 
+24.4.2023, 17:03:38 - DEBUG - GOT: |  
+24.4.2023, 17:03:38 - DEBUG - Getting Boards 
+24.4.2023, 17:03:38 - DEBUG - GOT: |  
+24.4.2023, 17:03:38 - INFO - New connected socket [id: ju1t8hBr8O08mpaLAABV] 
+24.4.2023, 17:03:38 - INFO - topic | 6422de01e6f5b31b74228324 
+24.4.2023, 17:03:38 - INFO - Socket is joining topic 6422de01e6f5b31b74228324 [id: ju1t8hBr8O08mpaLAABV] 
+24.4.2023, 17:03:39 - INFO - Setting socket.userId = 1234 for socket [id: ju1t8hBr8O08mpaLAABV] 
+24.4.2023, 17:03:46 - DEBUG - GOT: |  
+24.4.2023, 17:03:47 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 17:03:47 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 17:03:49 - DEBUG - GOT: |  
+24.4.2023, 17:03:50 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 17:03:50 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 17:06:36 - DEBUG - GOT: |  
+24.4.2023, 17:06:36 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 17:06:36 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 17:06:39 - DEBUG - GOT: |  
+24.4.2023, 17:06:39 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 17:06:39 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 17:06:45 - DEBUG - GOT: |  
+24.4.2023, 17:06:46 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 17:06:46 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 17:25:36 - INFO - Socket disconnected [id: undefined] 
+24.4.2023, 17:25:37 - DEBUG - GOT: |  
+24.4.2023, 17:25:37 - DEBUG - GOT: |  
+24.4.2023, 17:25:37 - DEBUG - Getting Boards 
+24.4.2023, 17:25:38 - INFO - New connected socket [id: q2kLFB8jExzt8VKVAABX] 
+24.4.2023, 17:25:38 - INFO - topic | 6422de01e6f5b31b74228324 
+24.4.2023, 17:25:38 - INFO - Socket is joining topic 6422de01e6f5b31b74228324 [id: q2kLFB8jExzt8VKVAABX] 
+24.4.2023, 17:25:39 - INFO - Setting socket.userId = 1234 for socket [id: q2kLFB8jExzt8VKVAABX] 
+24.4.2023, 17:28:20 - INFO - Socket disconnected [id: undefined] 
+24.4.2023, 17:28:21 - DEBUG - GOT: |  
+24.4.2023, 17:28:21 - DEBUG - Getting Boards 
+24.4.2023, 17:28:21 - DEBUG - GOT: |  
+24.4.2023, 17:28:21 - INFO - New connected socket [id: StH0LUogRhKFz8MaAABZ] 
+24.4.2023, 17:28:21 - INFO - topic | 6422de01e6f5b31b74228324 
+24.4.2023, 17:28:21 - INFO - Socket is joining topic 6422de01e6f5b31b74228324 [id: StH0LUogRhKFz8MaAABZ] 
+24.4.2023, 17:28:22 - INFO - Setting socket.userId = 1234 for socket [id: StH0LUogRhKFz8MaAABZ] 
+24.4.2023, 17:32:45 - INFO - Socket disconnected [id: undefined] 
+24.4.2023, 17:32:49 - DEBUG - GOT: |  
+24.4.2023, 17:32:49 - DEBUG - Getting Boards 
+24.4.2023, 17:32:49 - DEBUG - GOT: |  
+24.4.2023, 17:32:49 - INFO - New connected socket [id: u_HR83qgiY6kSBNxAABb] 
+24.4.2023, 17:32:50 - INFO - topic | 6422de01e6f5b31b74228324 
+24.4.2023, 17:32:50 - INFO - Socket is joining topic 6422de01e6f5b31b74228324 [id: u_HR83qgiY6kSBNxAABb] 
+24.4.2023, 17:32:51 - INFO - Setting socket.userId = 1234 for socket [id: u_HR83qgiY6kSBNxAABb] 
+24.4.2023, 17:39:29 - INFO - Socket disconnected [id: undefined] 
+24.4.2023, 17:39:30 - DEBUG - GOT: |  
+24.4.2023, 17:39:30 - DEBUG - Getting Boards 
+24.4.2023, 17:39:30 - DEBUG - GOT: |  
+24.4.2023, 17:39:30 - INFO - New connected socket [id: KxJPC21d3HImep5vAABd] 
+24.4.2023, 17:39:31 - INFO - topic | 6422de01e6f5b31b74228324 
+24.4.2023, 17:39:31 - INFO - Socket is joining topic 6422de01e6f5b31b74228324 [id: KxJPC21d3HImep5vAABd] 
+24.4.2023, 17:39:32 - INFO - Setting socket.userId = 1234 for socket [id: KxJPC21d3HImep5vAABd] 
+24.4.2023, 17:54:15 - INFO - Socket disconnected [id: undefined] 
+24.4.2023, 17:54:56 - DEBUG - GOT: |  
+24.4.2023, 17:54:56 - DEBUG - Getting Boards 
+24.4.2023, 17:54:56 - DEBUG - GOT: |  
+24.4.2023, 17:54:56 - INFO - New connected socket [id: hmpWXEDLHCQyUsc6AABf] 
+24.4.2023, 17:54:58 - INFO - Setting socket.userId = 1234 for socket [id: hmpWXEDLHCQyUsc6AABf] 
+24.4.2023, 17:54:58 - INFO - topic | 6422de01e6f5b31b74228324 
+24.4.2023, 17:54:58 - INFO - Socket is joining topic 6422de01e6f5b31b74228324 [id: hmpWXEDLHCQyUsc6AABf] 
+24.4.2023, 17:57:58 - DEBUG - GOT: |  
+24.4.2023, 17:57:58 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 17:57:58 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 17:57:59 - DEBUG - GOT: |  
+24.4.2023, 17:57:59 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 17:57:59 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 17:59:00 - DEBUG - GOT: |  
+24.4.2023, 17:59:00 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 17:59:00 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 17:59:03 - DEBUG - GOT: |  
+24.4.2023, 17:59:03 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 17:59:03 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 17:59:07 - INFO - Socket disconnected [id: undefined] 
+24.4.2023, 17:59:48 - DEBUG - GOT: |  
+24.4.2023, 17:59:48 - DEBUG - Getting Boards 
+24.4.2023, 17:59:48 - DEBUG - GOT: |  
+24.4.2023, 17:59:48 - INFO - New connected socket [id: eo4O01z1Lj_lulnMAABh] 
+24.4.2023, 17:59:49 - INFO - topic | 6422de01e6f5b31b74228324 
+24.4.2023, 17:59:49 - INFO - Setting socket.userId = 1234 for socket [id: eo4O01z1Lj_lulnMAABh] 
+24.4.2023, 17:59:49 - INFO - Socket is joining topic 6422de01e6f5b31b74228324 [id: eo4O01z1Lj_lulnMAABh] 
+24.4.2023, 18:04:59 - INFO - Socket disconnected [id: undefined] 
+24.4.2023, 18:05:39 - DEBUG - GOT: |  
+24.4.2023, 18:05:39 - DEBUG - Getting Boards 
+24.4.2023, 18:05:39 - DEBUG - GOT: |  
+24.4.2023, 18:05:40 - INFO - New connected socket [id: M_bbb_mmD5oyWCyCAABj] 
+24.4.2023, 18:05:41 - INFO - topic | 6422de01e6f5b31b74228324 
+24.4.2023, 18:05:41 - INFO - Setting socket.userId = 1234 for socket [id: M_bbb_mmD5oyWCyCAABj] 
+24.4.2023, 18:05:41 - INFO - Socket is joining topic 6422de01e6f5b31b74228324 [id: M_bbb_mmD5oyWCyCAABj] 
+24.4.2023, 18:10:41 - DEBUG - GOT: |  
+24.4.2023, 18:10:42 - INFO - Broadcasting event: board-get-update 
+24.4.2023, 18:10:42 - INFO - Broadcast to room 6422de01e6f5b31b74228324 excluding user: 1234 
+24.4.2023, 18:14:20 - INFO - Socket disconnected [id: undefined] 
+24.4.2023, 18:15:01 - DEBUG - GOT: |  
+24.4.2023, 18:15:01 - DEBUG - Getting Boards 
+24.4.2023, 18:15:01 - DEBUG - GOT: |  
+24.4.2023, 18:15:02 - INFO - New connected socket [id: a8B7j8qYqcW7JQ_6AABl] 
+24.4.2023, 18:15:03 - INFO - Setting socket.userId = 1234 for socket [id: a8B7j8qYqcW7JQ_6AABl] 
+24.4.2023, 18:15:04 - INFO - topic | 6422de01e6f5b31b74228324 
+24.4.2023, 18:15:04 - INFO - Socket is joining topic 6422de01e6f5b31b74228324 [id: a8B7j8qYqcW7JQ_6AABl] 
+24.4.2023, 18:20:13 - INFO - Socket disconnected [id: undefined] 
+24.4.2023, 18:20:14 - INFO - New connected socket [id: Np4dktuWxd50YKDAAABn] 
+24.4.2023, 18:20:14 - INFO - Setting socket.userId = 1234 for socket [id: Np4dktuWxd50YKDAAABn] 
+24.4.2023, 18:21:34 - INFO - Socket disconnected [id: undefined] 
+24.4.2023, 18:21:35 - INFO - New connected socket [id: 6cIaRSuGO0TqFQp_AABp] 
+24.4.2023, 18:21:35 - INFO - Setting socket.userId = 1234 for socket [id: 6cIaRSuGO0TqFQp_AABp] 
+24.4.2023, 18:21:51 - INFO - Socket disconnected [id: undefined] 
+24.4.2023, 18:21:52 - INFO - New connected socket [id: nb4Zf-WW303Jq7BxAABr] 
+24.4.2023, 18:21:52 - INFO - Setting socket.userId = 1234 for socket [id: nb4Zf-WW303Jq7BxAABr] 
+24.4.2023, 18:22:11 - INFO - Socket disconnected [id: undefined] 
+24.4.2023, 18:22:15 - DEBUG - GOT: |  
+24.4.2023, 18:22:15 - DEBUG - Getting Boards 
+24.4.2023, 18:22:15 - DEBUG - GOT: |  
+24.4.2023, 18:22:15 - INFO - New connected socket [id: eqDXzy6nsuCqKJHMAABt] 
+24.4.2023, 18:22:15 - INFO - topic | 6422de01e6f5b31b74228324 
+24.4.2023, 18:22:15 - INFO - Socket is joining topic 6422de01e6f5b31b74228324 [id: eqDXzy6nsuCqKJHMAABt] 
+24.4.2023, 18:22:16 - INFO - Setting socket.userId = 1234 for socket [id: eqDXzy6nsuCqKJHMAABt] 
+24.4.2023, 18:22:27 - INFO - Socket disconnected [id: undefined] 
+24.4.2023, 18:22:30 - DEBUG - GOT: |  
+24.4.2023, 18:22:30 - DEBUG - GOT: |  
+24.4.2023, 18:22:30 - DEBUG - Getting Boards 
+24.4.2023, 18:22:30 - INFO - New connected socket [id: W19Ee7LIZtJYHSU-AABv] 
+24.4.2023, 18:22:31 - INFO - topic | 6422de01e6f5b31b74228324 
+24.4.2023, 18:22:31 - INFO - Socket is joining topic 6422de01e6f5b31b74228324 [id: W19Ee7LIZtJYHSU-AABv] 
+24.4.2023, 18:22:32 - INFO - Setting socket.userId = 1234 for socket [id: W19Ee7LIZtJYHSU-AABv] 
+24.4.2023, 18:23:56 - INFO - Socket disconnected [id: undefined] 
+24.4.2023, 18:23:57 - DEBUG - Getting Boards 
+24.4.2023, 18:23:57 - DEBUG - GOT: |  
+24.4.2023, 18:23:57 - DEBUG - GOT: |  
+24.4.2023, 18:23:57 - INFO - New connected socket [id: oWgVGcb2Q7CYKOKvAABx] 
+24.4.2023, 18:23:57 - INFO - topic | 6422de01e6f5b31b74228324 
+24.4.2023, 18:23:57 - INFO - Socket is joining topic 6422de01e6f5b31b74228324 [id: oWgVGcb2Q7CYKOKvAABx] 
+24.4.2023, 18:23:58 - INFO - Setting socket.userId = 1234 for socket [id: oWgVGcb2Q7CYKOKvAABx] 
+24.4.2023, 18:54:20 - INFO - Socket disconnected [id: undefined] 
+24.4.2023, 18:55:00 - DEBUG - GOT: |  
+24.4.2023, 18:55:00 - DEBUG - Getting Boards 
+24.4.2023, 18:55:00 - DEBUG - GOT: |  
+24.4.2023, 18:55:01 - INFO - New connected socket [id: ERwhjJYNSnBYt1WzAABz] 
+24.4.2023, 18:55:02 - INFO - Setting socket.userId = 1234 for socket [id: ERwhjJYNSnBYt1WzAABz] 
+24.4.2023, 18:55:02 - INFO - topic | 6422de01e6f5b31b74228324 
+24.4.2023, 18:55:02 - INFO - Socket is joining topic 6422de01e6f5b31b74228324 [id: ERwhjJYNSnBYt1WzAABz] 
+24.4.2023, 19:10:25 - INFO - Server is running on port: 3030 
+24.4.2023, 19:10:26 - INFO - Server is running on port: 3030 
+24.4.2023, 19:10:27 - INFO - New connected socket [id: BHe0TtZViyE3izIGAAAB] 
